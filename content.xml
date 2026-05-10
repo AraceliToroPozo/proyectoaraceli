@@ -1,0 +1,1027 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>flux</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260510215430MTDTPX</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260510215430FSLXZ4</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Documento sin título</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>public domain</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>flux</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778442852101</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-1778433014748-x8lpycavr</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778433014748-x8lpycavr</odePageId>
+      <odeBlockId>block-1778433077165-ua2079x3m</odeBlockId>
+      <blockName>Presentación del proyecto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778433014748-x8lpycavr</odePageId>
+          <odeBlockId>block-1778433077165-ua2079x3m</odeBlockId>
+          <odeIdeviceId>idevice-1778433077160-kccnhwr7f</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Título:</strong> "Letras Conectadas: Mi primer viaje digital al mundo de los sonidos".<br /><strong>Temática / Centro de interés</strong>: Los animales del entorno y sus nombres.<br /><strong>Nivel</strong>: 1.º de Educación Primaria.<br /><strong>Temporalización</strong>: 15 días.<br /><strong>Materias implicadas</strong>: Lengua Castellana y Literatura (principal), Educación Artística y Conocimiento del Medio.<br /><strong>Idioma</strong>: Castellano.</p>
+<p><span style="color: #e03e2d;">Descripción General</span><br />Se pretende que el alumnado adquiera la capacidad de identificar, segmentar y escribir palabras sencillas relacionadas con animales, utilizando tanto medios analógicos como digitales. El proyecto culmina con la creación de un "Diccionario de Animales Interactivo". El alumnado utilizará tablets para realizar juegos de lectoescritura, pero con un enfoque renovado: se utilizarán herramientas offline y se integrará un "Andamiaje de Competencia Digital" para que los niños y niñas aprendan a resolver pequeños conflictos técnicos por sí mismos.</p>
+<p><span style="color: #e03e2d;">Justificación y reflexión</span><br />La elección de estos elementos se justifica así:<br />Gestión de la Incertidumbre En mi reflexión anterior, el fallo del Wi-Fi generó estrés y pérdida de atención. Por ello, en esta SdA se han seleccionado recursos interactivos que funcionan sin conexión a internet (offline). He diseñado un "Plan B" analógico (letras de lija y tarjetas físicas) para garantizar la continuidad pedagógica ante cualquier imprevisto técnico, eliminando la incertidumbre del servidor.<br />Ponderación de consecuencias éticas y pedagógicas: Tras observar que algunos alumnos se frustraban por la falta de destreza motriz con el gesto de "arrastrar", he modificado las actividades para que se basen en "pulsar" y "escuchar". Esto reduce la carga cognitiva técnica y permite que el alumno se centre exclusivamente en el reto lingüístico, garantizando la equidad para aquellos con menos experiencia digital previa.<br />Estrategias de autonomía: He incluido en la descripción el uso de un panel de pictogramas de resolución de problemas. Esta es una respuesta directa a la "falta de autonomía" detectada en la tarea 1.1. El alumnado no será un mero consumidor, sino que aprenderá a identificar qué información necesita para que su herramienta (la tablet) funcione correctamente. </p>
+<p>Estrategias de autonomía: He incluido en la descripción el uso de un panel de pictogramas de resolución de problemas. Esta es una respuesta directa a la "falta de autonomía" detectada en la tarea 1.1. El alumnado aprenderá a identificar qué información necesita para que su herramienta (la tablet) funcione correctamente.<br />Adaptación al contexto: La secuencia está adaptada al nivel madurativo real de mi aula de 1.º de Primaria.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778433077160-kccnhwr7f","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Título:</strong> \"Letras Conectadas: Mi primer viaje digital al mundo de los sonidos\".<br /><strong>Temática / Centro de interés</strong>: Los animales del entorno y sus nombres.<br /><strong>Nivel</strong>: 1.º de Educación Primaria.<br /><strong>Temporalización</strong>: 15 días.<br /><strong>Materias implicadas</strong>: Lengua Castellana y Literatura (principal), Educación Artística y Conocimiento del Medio.<br /><strong>Idioma</strong>: Castellano.</p>\n<p><span style=\"color: #e03e2d;\">Descripción General</span><br />Se pretende que el alumnado adquiera la capacidad de identificar, segmentar y escribir palabras sencillas relacionadas con animales, utilizando tanto medios analógicos como digitales. El proyecto culmina con la creación de un \"Diccionario de Animales Interactivo\". El alumnado utilizará tablets para realizar juegos de lectoescritura, pero con un enfoque renovado: se utilizarán herramientas offline y se integrará un \"Andamiaje de Competencia Digital\" para que los niños y niñas aprendan a resolver pequeños conflictos técnicos por sí mismos.</p>\n<p><span style=\"color: #e03e2d;\">Justificación y reflexión</span><br />La elección de estos elementos se justifica así:<br />Gestión de la Incertidumbre En mi reflexión anterior, el fallo del Wi-Fi generó estrés y pérdida de atención. Por ello, en esta SdA se han seleccionado recursos interactivos que funcionan sin conexión a internet (offline). He diseñado un \"Plan B\" analógico (letras de lija y tarjetas físicas) para garantizar la continuidad pedagógica ante cualquier imprevisto técnico, eliminando la incertidumbre del servidor.<br />Ponderación de consecuencias éticas y pedagógicas: Tras observar que algunos alumnos se frustraban por la falta de destreza motriz con el gesto de \"arrastrar\", he modificado las actividades para que se basen en \"pulsar\" y \"escuchar\". Esto reduce la carga cognitiva técnica y permite que el alumno se centre exclusivamente en el reto lingüístico, garantizando la equidad para aquellos con menos experiencia digital previa.<br />Estrategias de autonomía: He incluido en la descripción el uso de un panel de pictogramas de resolución de problemas. Esta es una respuesta directa a la \"falta de autonomía\" detectada en la tarea 1.1. El alumnado no será un mero consumidor, sino que aprenderá a identificar qué información necesita para que su herramienta (la tablet) funcione correctamente. </p>\n<p>Estrategias de autonomía: He incluido en la descripción el uso de un panel de pictogramas de resolución de problemas. Esta es una respuesta directa a la \"falta de autonomía\" detectada en la tarea 1.1. El alumnado aprenderá a identificar qué información necesita para que su herramienta (la tablet) funcione correctamente.<br />Adaptación al contexto: La secuencia está adaptada al nivel madurativo real de mi aula de 1.º de Primaria.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>8856c6a7-aa93-4f52-9184-ba019f0c5fa8</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Introducción</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Introducción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Introducción</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>8856c6a7-aa93-4f52-9184-ba019f0c5fa8</odePageId>
+      <odeBlockId>block-1778261498715-qgimqcvrc</odeBlockId>
+      <blockName>¡Comienza la aventura de los sonidos!</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>8856c6a7-aa93-4f52-9184-ba019f0c5fa8</odePageId>
+          <odeBlockId>block-1778261498715-qgimqcvrc</odeBlockId>
+          <odeIdeviceId>idevice-1778261498707-5deihk9j9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>60:00</dd></div><div class="inline"><dt><span title="Pequeños grupos">Pequeños grupos</span></dt><dd>20</dd></div></dl><h2><strong><span style="color: #e03e2d; font-family: 'comic sans ms', sans-serif;">¡Hola, exploradores y exploradoras!</span></strong></h2>
+<p><span style="font-family: 'comic sans ms', sans-serif;">Bienvenidos a<span style="color: #e03e2d;"> "Letras Conectadas"</span>. En este viaje digital vamos a convertirnos en expertos de los animales y de los sonidos que forman sus nombres. ¿Sabíais que cada animal tiene un nombre secreto que podemos escribir y hacer sonar en nuestras tablets?</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">Durante las próximas dos semanas, vamos a investigar qué animales viven cerca de nosotros, cómo se escriben sus nombres y cómo podemos usar la tecnología para crear nuestro propio <span style="color: #e03e2d;">Diccionario de Animales Interactivo.</span></span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">¡Pero cuidado! En esta aventura también aprenderemos a ser autónomos. Si la tablet no funciona o el Wi-Fi se escapa como un gato, ¡no pasa nada! Tenemos nuestro panel de pictogramas para solucionar problemas y nuestras letras de lija mágicas para seguir aprendiendo.</span></p>
+<p><span style="color: #e03e2d; background-color: #f1c40f;"><strong>¡Prepara tu mochila digital, que el viaje empieza ya!</strong></span></p>
+<p><span style="color: #e03e2d; background-color: #f1c40f;"><strong><img src="{{context_path}}/content/resources/garten-gg-animals-2222007_1920.jpg" title="Bienvenidos a la selva de las letras" width="689" height="229" alt="&quot;Dibujo colorido de animales&quot;" /></strong></span></p>
+<p><span style="background-color: #ecf0f1;"><em><span style="color: #000000; font-size: 8pt; background-color: #ecf0f1;">Imagen de garten-gg en Pixabay. Licencia de contenido de Pixabay (Uso gratuito).</span></em></span></p>
+<p><span style="background-color: #ecf0f1;"><em><span style="color: #000000; font-size: 8pt; background-color: #ecf0f1;"></span></em></span><br /></p>
+<hr />
+<p><strong>JUSTIFICACIÓN PEDAGÓGICA Y FICHA TÉCNICA (PARA EL DOCENTE)</strong></p>
+<p>Título: Letras Conectadas: Mi primer viaje digital al mundo de los sonidos.<br />Nivel: 1.º de Educación Primaria.<br />Duración: 15 días (esta sesión inicial: 1 hora).<br />Áreas: Lengua Castellana y Literatura, Conocimiento Del Medio Natural, Social y Cultural, Educación Artística.<br />Reflexión y diseño del proyecto: Este proyecto ha sido diseñado bajo los principios de Gestión de la Incertidumbre, tras detectar en mi práctica (Tarea 1.1) que los fallos técnicos generaban estrés. Por ello:</p>
+<p>Enfoque Offline: He seleccionado recursos que no dependen de la conexión a internet.<br />Equidad (DUA): He adaptado las actividades para que se basen en "pulsar y escuchar", reduciendo la frustración por falta de destreza motriz.<br />Autonomía: Se integra un panel de pictogramas para que el alumnado resuelva pequeños problemas técnicos por sí mismo, fomentando su competencia digital desde el inicio.</p>
+<p>💡 ¿Por qué este proyecto es especial? (Justificación)<br />En este proyecto no solo usamos tablets, sino que aprendemos a usarlas con cabeza:</p>
+<p>Sin miedo a los fallos: Hemos preparado actividades offline y materiales físicos para que nada detenga nuestro aprendizaje.<br />Tecnología para todos: Las actividades están diseñadas para que sea fácil interactuar (pulsar y escuchar), respetando el ritmo de cada niño y niña.<br />Somos resolutivos: Gracias a nuestro panel de pictogramas, aprenderemos a solucionar pequeños problemas técnicos nosotros solos.</p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778261498707-5deihk9j9","textInfoDurationInput":"60:00","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"20","textInfoParticipantsTextInput":"Pequeños grupos","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>60:00</dd></div><div class=\"inline\"><dt><span title=\"Pequeños grupos\">Pequeños grupos</span></dt><dd>20</dd></div></dl><h2><strong><span style=\"color: #e03e2d; font-family: 'comic sans ms', sans-serif;\">¡Hola, exploradores y exploradoras!</span></strong></h2>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">Bienvenidos a<span style=\"color: #e03e2d;\"> \"Letras Conectadas\"</span>. En este viaje digital vamos a convertirnos en expertos de los animales y de los sonidos que forman sus nombres. ¿Sabíais que cada animal tiene un nombre secreto que podemos escribir y hacer sonar en nuestras tablets?</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">Durante las próximas dos semanas, vamos a investigar qué animales viven cerca de nosotros, cómo se escriben sus nombres y cómo podemos usar la tecnología para crear nuestro propio <span style=\"color: #e03e2d;\">Diccionario de Animales Interactivo.</span></span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">¡Pero cuidado! En esta aventura también aprenderemos a ser autónomos. Si la tablet no funciona o el Wi-Fi se escapa como un gato, ¡no pasa nada! Tenemos nuestro panel de pictogramas para solucionar problemas y nuestras letras de lija mágicas para seguir aprendiendo.</span></p>\n<p><span style=\"color: #e03e2d; background-color: #f1c40f;\"><strong>¡Prepara tu mochila digital, que el viaje empieza ya!</strong></span></p>\n<p><span style=\"color: #e03e2d; background-color: #f1c40f;\"><strong><img src=\"{{context_path}}/content/resources/garten-gg-animals-2222007_1920.jpg\" title=\"Bienvenidos a la selva de las letras\" width=\"689\" height=\"229\" alt=\"&quot;Dibujo colorido de animales&quot;\" /></strong></span></p>\n<p><span style=\"background-color: #ecf0f1;\"><em><span style=\"color: #000000; font-size: 8pt; background-color: #ecf0f1;\">Imagen de garten-gg en Pixabay. Licencia de contenido de Pixabay (Uso gratuito).</span></em></span></p>\n<p><span style=\"background-color: #ecf0f1;\"><em><span style=\"color: #000000; font-size: 8pt; background-color: #ecf0f1;\"></span></em></span><br /></p>\n<hr />\n<p><strong>JUSTIFICACIÓN PEDAGÓGICA Y FICHA TÉCNICA (PARA EL DOCENTE)</strong></p>\n<p>Título: Letras Conectadas: Mi primer viaje digital al mundo de los sonidos.<br />Nivel: 1.º de Educación Primaria.<br />Duración: 15 días (esta sesión inicial: 1 hora).<br />Áreas: Lengua Castellana y Literatura, Conocimiento Del Medio Natural, Social y Cultural, Educación Artística.<br />Reflexión y diseño del proyecto: Este proyecto ha sido diseñado bajo los principios de Gestión de la Incertidumbre, tras detectar en mi práctica (Tarea 1.1) que los fallos técnicos generaban estrés. Por ello:</p>\n<p>Enfoque Offline: He seleccionado recursos que no dependen de la conexión a internet.<br />Equidad (DUA): He adaptado las actividades para que se basen en \"pulsar y escuchar\", reduciendo la frustración por falta de destreza motriz.<br />Autonomía: Se integra un panel de pictogramas para que el alumnado resuelva pequeños problemas técnicos por sí mismo, fomentando su competencia digital desde el inicio.</p>\n<p>💡 ¿Por qué este proyecto es especial? (Justificación)<br />En este proyecto no solo usamos tablets, sino que aprendemos a usarlas con cabeza:</p>\n<p>Sin miedo a los fallos: Hemos preparado actividades offline y materiales físicos para que nada detenga nuestro aprendizaje.<br />Tecnología para todos: Las actividades están diseñadas para que sea fácil interactuar (pulsar y escuchar), respetando el ritmo de cada niño y niña.<br />Somos resolutivos: Gracias a nuestro panel de pictogramas, aprenderemos a solucionar pequeños problemas técnicos nosotros solos.</p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778261066874-py35elqrh</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Protección de datos</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778261066874-py35elqrh</odePageId>
+      <odeBlockId>block-1778343042044-tthfimcnw</odeBlockId>
+      <blockName>🔒Nuestros Secretos están a Salvo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778261066874-py35elqrh</odePageId>
+          <odeBlockId>block-1778343042044-tthfimcnw</odeBlockId>
+          <odeIdeviceId>idevice-1778343042038-a9bp05m8n</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h3><span style="color: #e03e2d;"><strong><span style="font-family: 'comic sans ms', sans-serif;">¡Hola, exploradores! </span></strong></span></h3>
+<h3><span style="font-family: 'comic sans ms', sans-serif; font-size: 12pt; color: #236fa1;">En este viaje con las tablets, vamos a aprender a ser <span style="background-color: #f1c40f;">Guardianes de nuestra Privacidad.</span></span></h3>
+<p><strong><span style="font-family: 'comic sans ms', sans-serif; font-size: 12pt; color: #e03e2d;">¿Sabéis qué significa eso? </span></strong></p>
+<p><span style="font-family: 'comic sans ms', sans-serif; font-size: 12pt; color: #236fa1;">Que vuestro nombre, vuestras fotos y vuestros trabajos son como un <span style="background-color: #f1c40f;">tesoro</span>. En este proyecto:</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif; font-size: 12pt; color: #e67e23;">- No daremos nuestro nombre real en internet.</span><br /><span style="font-family: 'comic sans ms', sans-serif; font-size: 12pt; color: #e67e23;">- No pondremos fotos de nuestra cara en las tablets.</span><br /><span style="font-family: 'comic sans ms', sans-serif; font-size: 12pt; color: #e67e23;">- Usaremos herramientas que no necesitan internet.                </span></p>
+<p><strong><span style="font-family: 'comic sans ms', sans-serif; font-size: 12pt; color: #236fa1;">¡Vuestros datos son vuestros y nosotros los cuidamos!</span></strong></p>
+<p><strong><span style="font-family: 'comic sans ms', sans-serif; font-size: 12pt; color: #236fa1;">   </span></strong></p>
+<figure class="exe-figure position-center" style="width: 800px;"><img src="{{context_path}}/content/resources/🛡️ Título Mi Escudo Digital Autora Araceli Mª Toro Pozo.jpg" title="Protección de datos" width="800" height="2000" alt="Protección de datos" />
+<figcaption class="figcaption"><span class="author">Araceli Mª Toro Pozo</span>. <span class="title"><em>Protección de datos</em></span> <span class="license"><span class="sep">(</span><span class="custom-license">Dominio público</span><span class="sep">)</span></span></figcaption>
+</figure>
+<hr />
+<p><strong>INFORMACIÓN PARA LAS FAMILIAS Y EL DOCENTE (RGPD)</strong></p>
+<p>Este proyecto cumple con el Reglamento General de Protección de Datos (RGPD) mediante las siguientes medidas:</p>
+<p><span style="background-color: #f1c40f;">Herramientas Offline:</span> Se prioriza el uso de software que no requiere registro de usuario ni subida de datos a la nube, minimizando la huella digital del alumnado.<br /><span style="background-color: #f1c40f;">Identidad Digital:</span> El alumnado trabajará bajo pseudónimos o avatares en caso de interactuar con herramientas que lo permitan.<br /><span style="background-color: #f1c40f;">Consentimiento:</span> Todas las actividades que impliquen el uso de dispositivos digitales cuentan con la autorización previa de información y uso de imagen firmada por los tutores legales al inicio del curso.<br /><span style="background-color: #f1c40f;">Uso de Imágenes:</span> Las fotos del producto final (Diccionario Interactivo) se realizarán sobre los trabajos, evitando el enfoque de rostros de menores.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778343042038-a9bp05m8n","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h3><span style=\"color: #e03e2d;\"><strong><span style=\"font-family: 'comic sans ms', sans-serif;\">¡Hola, exploradores! </span></strong></span></h3>\n<h3><span style=\"font-family: 'comic sans ms', sans-serif; font-size: 12pt; color: #236fa1;\">En este viaje con las tablets, vamos a aprender a ser <span style=\"background-color: #f1c40f;\">Guardianes de nuestra Privacidad.</span></span></h3>\n<p><strong><span style=\"font-family: 'comic sans ms', sans-serif; font-size: 12pt; color: #e03e2d;\">¿Sabéis qué significa eso? </span></strong></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif; font-size: 12pt; color: #236fa1;\">Que vuestro nombre, vuestras fotos y vuestros trabajos son como un <span style=\"background-color: #f1c40f;\">tesoro</span>. En este proyecto:</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif; font-size: 12pt; color: #e67e23;\">- No daremos nuestro nombre real en internet.</span><br /><span style=\"font-family: 'comic sans ms', sans-serif; font-size: 12pt; color: #e67e23;\">- No pondremos fotos de nuestra cara en las tablets.</span><br /><span style=\"font-family: 'comic sans ms', sans-serif; font-size: 12pt; color: #e67e23;\">- Usaremos herramientas que no necesitan internet.                </span></p>\n<p><strong><span style=\"font-family: 'comic sans ms', sans-serif; font-size: 12pt; color: #236fa1;\">¡Vuestros datos son vuestros y nosotros los cuidamos!</span></strong></p>\n<p><strong><span style=\"font-family: 'comic sans ms', sans-serif; font-size: 12pt; color: #236fa1;\">   </span></strong></p>\n<figure class=\"exe-figure position-center\" style=\"width: 800px;\"><img src=\"{{context_path}}/content/resources/🛡️ Título Mi Escudo Digital Autora Araceli Mª Toro Pozo.jpg\" title=\"Protección de datos\" width=\"800\" height=\"2000\" alt=\"Protección de datos\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Araceli Mª Toro Pozo</span>. <span class=\"title\"><em>Protección de datos</em></span> <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Dominio público</span><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<hr />\n<p><strong>INFORMACIÓN PARA LAS FAMILIAS Y EL DOCENTE (RGPD)</strong></p>\n<p>Este proyecto cumple con el Reglamento General de Protección de Datos (RGPD) mediante las siguientes medidas:</p>\n<p><span style=\"background-color: #f1c40f;\">Herramientas Offline:</span> Se prioriza el uso de software que no requiere registro de usuario ni subida de datos a la nube, minimizando la huella digital del alumnado.<br /><span style=\"background-color: #f1c40f;\">Identidad Digital:</span> El alumnado trabajará bajo pseudónimos o avatares en caso de interactuar con herramientas que lo permitan.<br /><span style=\"background-color: #f1c40f;\">Consentimiento:</span> Todas las actividades que impliquen el uso de dispositivos digitales cuentan con la autorización previa de información y uso de imagen firmada por los tutores legales al inicio del curso.<br /><span style=\"background-color: #f1c40f;\">Uso de Imágenes:</span> Las fotos del producto final (Diccionario Interactivo) se realizarán sobre los trabajos, evitando el enfoque de rostros de menores.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778434263300-by1w5iivn</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Producto final</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778434263300-by1w5iivn</odePageId>
+      <odeBlockId>block-1778434271682-fo55ddfj8</odeBlockId>
+      <blockName>El diccionario de animales digital</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778434263300-by1w5iivn</odePageId>
+          <odeBlockId>block-1778434271682-fo55ddfj8</odeBlockId>
+          <odeIdeviceId>idevice-1778434271679-oyh1gsziy</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El alumnado de 1.º de Primaria creará un Diccionario Pictográfico Interactivo. Este producto final no solo incluirá la letra y la imagen del animal, sino que cobrará vida a través de la narrativa visual.</p>
+<p>¿En qué consiste? Cada alumno o pareja de alumnos se encargará de una letra y un animal. El trabajo se divide en dos partes:</p>
+<p>Parte Pictográfica: Identificación de la letra inicial y el animal (usando nuestras letras de lija y dibujos).<br />Parte Narrativa (Pixton): Creación de una tira de 3 viñetas donde su animal es el protagonista. Los niños darán voz a los animales trabajando onomatopeyas (como el "muuu" o el "beee") y frases sencillas (ej: "El pato nada").<br /></p>
+<p>Beneficios de Pixton</p>
+<p>Andamiaje visual: Ayuda a los niños que aún no escriben mucho a expresar historias mediante gestos y fondos.<br />Motivación: Al crear sus propios avatares, se sienten autores de su aprendizaje.<br />Reducción de carga cognitiva: Se centran en pensar qué dice el animal (conciencia fonológica) sin la frustración de no saber dibujar algo complejo.</p>
+<p>Esta actividad atiende a la diversidad (DUA) ya que el uso de Pixton permite múltiples formas de acción y expresión. Aquellos alumnos con dificultades en la motricidad fina para el dibujo manual pueden demostrar su comprensión de la historia mediante la selección de avatares y escenarios digitales.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778434271679-oyh1gsziy","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El alumnado de 1.º de Primaria creará un Diccionario Pictográfico Interactivo. Este producto final no solo incluirá la letra y la imagen del animal, sino que cobrará vida a través de la narrativa visual.</p>\n<p>¿En qué consiste? Cada alumno o pareja de alumnos se encargará de una letra y un animal. El trabajo se divide en dos partes:</p>\n<p>Parte Pictográfica: Identificación de la letra inicial y el animal (usando nuestras letras de lija y dibujos).<br />Parte Narrativa (Pixton): Creación de una tira de 3 viñetas donde su animal es el protagonista. Los niños darán voz a los animales trabajando onomatopeyas (como el \"muuu\" o el \"beee\") y frases sencillas (ej: \"El pato nada\").<br /></p>\n<p>Beneficios de Pixton</p>\n<p>Andamiaje visual: Ayuda a los niños que aún no escriben mucho a expresar historias mediante gestos y fondos.<br />Motivación: Al crear sus propios avatares, se sienten autores de su aprendizaje.<br />Reducción de carga cognitiva: Se centran en pensar qué dice el animal (conciencia fonológica) sin la frustración de no saber dibujar algo complejo.</p>\n<p>Esta actividad atiende a la diversidad (DUA) ya que el uso de Pixton permite múltiples formas de acción y expresión. Aquellos alumnos con dificultades en la motricidad fina para el dibujo manual pueden demostrar su comprensión de la historia mediante la selección de avatares y escenarios digitales.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778261085502-dr1ry0g4p</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Curación de contenidos</pageName>
+  <odeNavStructureOrder>13</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Curación de contenidos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778261085502-dr1ry0g4p</odePageId>
+      <odeBlockId>block-1778356881707-61naqjdts</odeBlockId>
+      <blockName>ANIMALES DEL MUNDO</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778261085502-dr1ry0g4p</odePageId>
+          <odeBlockId>block-1778356881707-61naqjdts</odeBlockId>
+          <odeIdeviceId>idevice-1778356881699-h9isiga02</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://padlet.com/toroaraceli/animales-del-mundo-vk3vhkgqmgs2bzc3" size="4" width="600" height="800" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778261085502-dr1ry0g4p</odePageId>
+      <odeBlockId>block-1778357217414-ag30t3b9p</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778261085502-dr1ry0g4p</odePageId>
+          <odeBlockId>block-1778357217414-ag30t3b9p</odeBlockId>
+          <odeIdeviceId>idevice-1778357217411-y7jsmdome</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>"Haz clic en el siguiente botón para abrir nuestro tablero de juegos de Symbaloo:"</p>
+<p><a href="https://www.symbaloo.com/shared/AAAAAcrWUTQAA41-5ETD2w==" target="_blank" title="" rel="noopener"><span style="color: #e67e23;"><strong title="">MI TABLERO DE JUEGOS (SYMBALOO)</strong></span></a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778357217411-y7jsmdome","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>\"Haz clic en el siguiente botón para abrir nuestro tablero de juegos de Symbaloo:\"</p>\n<p><a href=\"https://www.symbaloo.com/shared/AAAAAcrWUTQAA41-5ETD2w==\" target=\"_blank\" title=\"\" rel=\"noopener\"><span style=\"color: #e67e23;\"><strong title=\"\">MI TABLERO DE JUEGOS (SYMBALOO)</strong></span></a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778434777318-am7eej648</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea temporal</pageName>
+  <odeNavStructureOrder>14</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778434777318-am7eej648</odePageId>
+      <odeBlockId>block-1778434785781-enx4w8nh7</odeBlockId>
+      <blockName>Línea temporal de actividades</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778434777318-am7eej648</odePageId>
+          <odeBlockId>block-1778434785781-enx4w8nh7</odeBlockId>
+          <odeIdeviceId>idevice-1778434785779-oe0bbghp3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://go.bubbl.us/f19105/4ddc?/Circle-Layout" target="_blank" title="" rel="noopener">Línea temporal de actividades.</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778434785779-oe0bbghp3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://go.bubbl.us/f19105/4ddc?/Circle-Layout\" target=\"_blank\" title=\"\" rel=\"noopener\">Línea temporal de actividades.</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778261074433-hqhupbr6y</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>15</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778261074433-hqhupbr6y</odePageId>
+      <odeBlockId>block-1778262251083-hwvc2o9jw</odeBlockId>
+      <blockName>📘 Criterios de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778261074433-hqhupbr6y</odePageId>
+          <odeBlockId>block-1778262251083-hwvc2o9jw</odeBlockId>
+          <odeIdeviceId>idevice-1778262251078-7nhg7yfhx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table border="1" style="width: 100.058%; height: 366.328px; background-color: #9BFB76; border-color: #2dc26b; border-style: solid;">
+<tbody>
+<tr style="height: 37.7969px;">
+<td style="width: 22.3065%; height: 37.7969px;">TAREA</td>
+<td style="width: 14.2972%; height: 37.7969px;">CRITERIO</td>
+<td style="width: 23.8561%; height: 37.7969px;">AGRUPAMIENTO</td>
+<td style="width: 18.0287%; height: 37.7969px;">TIEMPO</td>
+<td style="width: 21.4887%; height: 37.7969px;">HERRAMIENTA</td>
+</tr>
+<tr style="height: 139.547px;">
+<td style="width: 22.3065%; height: 139.547px;"><span style="font-size: 10pt;">1. Exploradores de Sonidos: Identificar fonemas y onomatopeyas de animales de la granja mediante audios y tarjetas físicas. </span></td>
+<td style="width: 14.2972%; height: 139.547px;"><span style="font-size: 10pt;">1.1. Reconocer y distinguir sonidos de la lengua, onomatopeyas y rimas. </span><br /></td>
+<td style="width: 23.8561%; height: 139.547px;"><span style="font-size: 10pt;">Gran grupo e Individual </span></td>
+<td style="width: 18.0287%; height: 139.547px;"><span style="font-size: 10pt;">50 MINUTOS</span><br /></td>
+<td style="width: 21.4887%; height: 139.547px;"><span style="font-size: 10pt;">PDI y audios</span><br /></td>
+</tr>
+<tr style="height: 37.7969px;">
+<td style="width: 22.3065%; height: 37.7969px;"><span style="font-size: 10pt;">2. Alfabetización Digital: Sesión de modelado sobre el uso de la tablet, encendido, acceso a la App y protocolo de "Pantalla Congelada". </span><br /></td>
+<td style="width: 14.2972%; height: 37.7969px;"><span style="font-size: 10pt;">6.1. Iniciarse en el uso de herramientas digitales para el aprendizaje de forma guiada. </span><br /></td>
+<td style="width: 23.8561%; height: 37.7969px;"><span style="font-size: 10pt;">Gran grupo</span><br /></td>
+<td style="width: 18.0287%; height: 37.7969px;"><span style="font-size: 10pt;">30 minutos</span><br /></td>
+<td style="width: 21.4887%; height: 37.7969px;"><span style="font-size: 10pt;">Tablets</span><br /></td>
+</tr>
+<tr style="height: 37.7969px;">
+<td style="width: 22.3065%; height: 37.7969px;"><span style="font-size: 10pt;">3. Bocetos de Animales: Dibujar y escribir el nombre de un animal elegido en papel, segmentando las sílabas. </span><br /></td>
+<td style="width: 14.2972%; height: 37.7969px;"><span style="font-size: 10pt;">3.1. Redactar palabras y frases sencillas con una intención comunicativa.</span><br /></td>
+<td style="width: 23.8561%; height: 37.7969px;"><span style="font-size: 10pt;">Individual</span><br /></td>
+<td style="width: 18.0287%; height: 37.7969px;"><span style="font-size: 10pt;">45 minutos</span><br /></td>
+<td style="width: 21.4887%; height: 37.7969px;"><span style="font-size: 10pt;">Material fungible</span><br /></td>
+</tr>
+<tr style="height: 37.7969px;">
+<td style="width: 22.3065%; height: 37.7969px;"><span style="font-size: 10pt;">4. Creación en el Cómic: Crear una tira de 3 viñetas en Pixton: presentarse, mostrar el animal y escribir su sonido (onomatopeya). </span><br /></td>
+<td style="width: 14.2972%; height: 37.7969px;"><span style="font-size: 10pt;">3.2. Utilizar herramientas digitales para crear contenidos escritos sencillos. </span><br /></td>
+<td style="width: 23.8561%; height: 37.7969px;"><span style="font-size: 10pt;">Parejas (Tutoría entre iguales)</span><br /></td>
+<td style="width: 18.0287%; height: 37.7969px;"><span style="font-size: 10pt;">60 minutos</span><br /></td>
+<td style="width: 21.4887%; height: 37.7969px;"><span style="font-size: 10pt;">Pixton EDU</span><br /></td>
+</tr>
+<tr style="height: 37.7969px;">
+<td style="width: 22.3065%; height: 37.7969px;"><span style="font-size: 10pt;">5. Resolución de Retos: Identificar problemas técnicos comunes (batería, volumen, cierre de app) usando el panel de pictogramas. </span><br /></td>
+<td style="width: 14.2972%; height: 37.7969px;"><span style="font-size: 10pt;">6.2. Resolver problemas técnicos sencillos siguiendo instrucciones visuales. </span><br /></td>
+<td style="width: 23.8561%; height: 37.7969px;"><span style="font-size: 10pt;">Pequeños grupos (Rincones) </span><br /></td>
+<td style="width: 18.0287%; height: 37.7969px;"><span style="font-size: 10pt;">20 MINUTOS</span><br /></td>
+<td style="width: 21.4887%; height: 37.7969px;"><span style="font-size: 10pt;">Panel con pictogramas</span><br /></td>
+</tr>
+<tr style="height: 37.7969px;">
+<td style="width: 22.3065%; height: 37.7969px;"><span style="font-size: 10pt;">6. Exposición del Diccionario: Mostrar el cómic final a la clase y leer en voz alta los diálogos creados. </span><br /></td>
+<td style="width: 14.2972%; height: 37.7969px;"><span style="font-size: 10pt;">2.1. Expresar oralmente textos breves y sencillos de creación propia. </span><br /></td>
+<td style="width: 23.8561%; height: 37.7969px;"><span style="font-size: 10pt;">Gran Grupo</span><br /></td>
+<td style="width: 18.0287%; height: 37.7969px;"><span style="font-size: 10pt;">50 minutos</span><br /></td>
+<td style="width: 21.4887%; height: 37.7969px;"><span style="font-size: 10pt;">PDI</span></td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778262251078-7nhg7yfhx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" style=\"width: 100.058%; height: 366.328px; background-color: #9BFB76; border-color: #2dc26b; border-style: solid;\">\n<tbody>\n<tr style=\"height: 37.7969px;\">\n<td style=\"width: 22.3065%; height: 37.7969px;\">TAREA</td>\n<td style=\"width: 14.2972%; height: 37.7969px;\">CRITERIO</td>\n<td style=\"width: 23.8561%; height: 37.7969px;\">AGRUPAMIENTO</td>\n<td style=\"width: 18.0287%; height: 37.7969px;\">TIEMPO</td>\n<td style=\"width: 21.4887%; height: 37.7969px;\">HERRAMIENTA</td>\n</tr>\n<tr style=\"height: 139.547px;\">\n<td style=\"width: 22.3065%; height: 139.547px;\"><span style=\"font-size: 10pt;\">1. Exploradores de Sonidos: Identificar fonemas y onomatopeyas de animales de la granja mediante audios y tarjetas físicas. </span></td>\n<td style=\"width: 14.2972%; height: 139.547px;\"><span style=\"font-size: 10pt;\">1.1. Reconocer y distinguir sonidos de la lengua, onomatopeyas y rimas. </span><br /></td>\n<td style=\"width: 23.8561%; height: 139.547px;\"><span style=\"font-size: 10pt;\">Gran grupo e Individual </span></td>\n<td style=\"width: 18.0287%; height: 139.547px;\"><span style=\"font-size: 10pt;\">50 MINUTOS</span><br /></td>\n<td style=\"width: 21.4887%; height: 139.547px;\"><span style=\"font-size: 10pt;\">PDI y audios</span><br /></td>\n</tr>\n<tr style=\"height: 37.7969px;\">\n<td style=\"width: 22.3065%; height: 37.7969px;\"><span style=\"font-size: 10pt;\">2. Alfabetización Digital: Sesión de modelado sobre el uso de la tablet, encendido, acceso a la App y protocolo de \"Pantalla Congelada\". </span><br /></td>\n<td style=\"width: 14.2972%; height: 37.7969px;\"><span style=\"font-size: 10pt;\">6.1. Iniciarse en el uso de herramientas digitales para el aprendizaje de forma guiada. </span><br /></td>\n<td style=\"width: 23.8561%; height: 37.7969px;\"><span style=\"font-size: 10pt;\">Gran grupo</span><br /></td>\n<td style=\"width: 18.0287%; height: 37.7969px;\"><span style=\"font-size: 10pt;\">30 minutos</span><br /></td>\n<td style=\"width: 21.4887%; height: 37.7969px;\"><span style=\"font-size: 10pt;\">Tablets</span><br /></td>\n</tr>\n<tr style=\"height: 37.7969px;\">\n<td style=\"width: 22.3065%; height: 37.7969px;\"><span style=\"font-size: 10pt;\">3. Bocetos de Animales: Dibujar y escribir el nombre de un animal elegido en papel, segmentando las sílabas. </span><br /></td>\n<td style=\"width: 14.2972%; height: 37.7969px;\"><span style=\"font-size: 10pt;\">3.1. Redactar palabras y frases sencillas con una intención comunicativa.</span><br /></td>\n<td style=\"width: 23.8561%; height: 37.7969px;\"><span style=\"font-size: 10pt;\">Individual</span><br /></td>\n<td style=\"width: 18.0287%; height: 37.7969px;\"><span style=\"font-size: 10pt;\">45 minutos</span><br /></td>\n<td style=\"width: 21.4887%; height: 37.7969px;\"><span style=\"font-size: 10pt;\">Material fungible</span><br /></td>\n</tr>\n<tr style=\"height: 37.7969px;\">\n<td style=\"width: 22.3065%; height: 37.7969px;\"><span style=\"font-size: 10pt;\">4. Creación en el Cómic: Crear una tira de 3 viñetas en Pixton: presentarse, mostrar el animal y escribir su sonido (onomatopeya). </span><br /></td>\n<td style=\"width: 14.2972%; height: 37.7969px;\"><span style=\"font-size: 10pt;\">3.2. Utilizar herramientas digitales para crear contenidos escritos sencillos. </span><br /></td>\n<td style=\"width: 23.8561%; height: 37.7969px;\"><span style=\"font-size: 10pt;\">Parejas (Tutoría entre iguales)</span><br /></td>\n<td style=\"width: 18.0287%; height: 37.7969px;\"><span style=\"font-size: 10pt;\">60 minutos</span><br /></td>\n<td style=\"width: 21.4887%; height: 37.7969px;\"><span style=\"font-size: 10pt;\">Pixton EDU</span><br /></td>\n</tr>\n<tr style=\"height: 37.7969px;\">\n<td style=\"width: 22.3065%; height: 37.7969px;\"><span style=\"font-size: 10pt;\">5. Resolución de Retos: Identificar problemas técnicos comunes (batería, volumen, cierre de app) usando el panel de pictogramas. </span><br /></td>\n<td style=\"width: 14.2972%; height: 37.7969px;\"><span style=\"font-size: 10pt;\">6.2. Resolver problemas técnicos sencillos siguiendo instrucciones visuales. </span><br /></td>\n<td style=\"width: 23.8561%; height: 37.7969px;\"><span style=\"font-size: 10pt;\">Pequeños grupos (Rincones) </span><br /></td>\n<td style=\"width: 18.0287%; height: 37.7969px;\"><span style=\"font-size: 10pt;\">20 MINUTOS</span><br /></td>\n<td style=\"width: 21.4887%; height: 37.7969px;\"><span style=\"font-size: 10pt;\">Panel con pictogramas</span><br /></td>\n</tr>\n<tr style=\"height: 37.7969px;\">\n<td style=\"width: 22.3065%; height: 37.7969px;\"><span style=\"font-size: 10pt;\">6. Exposición del Diccionario: Mostrar el cómic final a la clase y leer en voz alta los diálogos creados. </span><br /></td>\n<td style=\"width: 14.2972%; height: 37.7969px;\"><span style=\"font-size: 10pt;\">2.1. Expresar oralmente textos breves y sencillos de creación propia. </span><br /></td>\n<td style=\"width: 23.8561%; height: 37.7969px;\"><span style=\"font-size: 10pt;\">Gran Grupo</span><br /></td>\n<td style=\"width: 18.0287%; height: 37.7969px;\"><span style=\"font-size: 10pt;\">50 minutos</span><br /></td>\n<td style=\"width: 21.4887%; height: 37.7969px;\"><span style=\"font-size: 10pt;\">PDI</span></td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778439256877-vhvi68tz4</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>17</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778439256877-vhvi68tz4</odePageId>
+      <odeBlockId>block-1778439270116-wda319a7y</odeBlockId>
+      <blockName>Instrumentos de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778439256877-vhvi68tz4</odePageId>
+          <odeBlockId>block-1778439270116-wda319a7y</odeBlockId>
+          <odeIdeviceId>idevice-1778439270114-x54bux5op</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p></p>
+<p>INSTRUMENTOS DE EVALUACIÓN DIGITAL: "Aventuras en la Granja"<br />Introducción<br />Para la evaluación de esta SdA, se han diseñado dos instrumentos que combinan la observación directa del docente con la participación del alumnado.</p>
+<p>Instrumento 1: Rúbrica Analítica Digital (Registro Docente)<br />¿Qué evaluará? Se utilizará durante las sesiones 4 y 5 (creación en Pixton y resolución de problemas técnicos). Evaluará tres dimensiones:</p>
+<p>Conciencia Fonológica: Capacidad para escribir el nombre y sonido del animal.<br />Competencia Digital: Autonomía en el uso de la herramienta Pixton.<br />Resolución de Problemas: Uso de los pictogramas de apoyo ante fallos técnicos.<br />Se utilizará una rúbrica en iDoceo o Google Sheets. La ventaja de este medio digital es que permite automatizar la media ponderada de los indicadores.</p>
+<p>Variables: Si observamos que la variable "Competencia Digital" es baja en la mayoría del grupo, los datos nos indicarán que debemos dedicar más tiempo al modelado y menos a la producción textual.<br />Utilidad: Más allá de la nota, estos datos sirven para detectar qué alumnos necesitan refuerzo en la pinza digital o en la discriminación fonética.<br /></p>
+<table border="1" style="width: 100.058%; background-color: #C2E0F4; border-color: #7EECE9; border-style: solid;">
+<tbody>
+<tr>
+<td style="width: 24.9501%;"><span style="font-size: 10pt;">INDICADOR</span><br /></td>
+<td style="width: 24.9501%;"><span style="font-size: 10pt;">LOGRADO (1)</span><br /></td>
+<td style="width: 24.9501%;"><span style="font-size: 10pt;">EN PROCESO (2)</span><br /></td>
+<td style="width: 24.9501%;"><span style="font-size: 10pt;">NO LOGRADO (3)</span><br /></td>
+</tr>
+<tr>
+<td style="width: 24.9501%;"><span style="font-size: 10pt;">ESCRITURA</span><br /></td>
+<td style="width: 24.9501%;"><span style="font-size: 10pt;">Escribe onomatopeyas y nombres sin error.</span><br /></td>
+<td style="width: 24.9501%;"><span style="font-size: 10pt;">Escribe pero omite algún fonema.</span><br /></td>
+<td style="width: 24.9501%;"><span style="font-size: 10pt;">No asocia grafema-fonema.</span><br /></td>
+</tr>
+<tr>
+<td style="width: 24.9501%;"><span style="font-size: 10pt;">USO DE PIXTON</span><br /></td>
+<td style="width: 24.9501%;"><span style="font-size: 10pt;">Crea viñetas y cambia fondos solo.</span><br /></td>
+<td style="width: 24.9501%;"><span style="font-size: 10pt;">Necesita ayuda para encontrar menús.</span><br /></td>
+<td style="width: 24.9501%;"><span style="font-size: 10pt;">No maneja la tablet.</span><br /></td>
+</tr>
+<tr>
+<td style="width: 24.9501%;"><span style="font-size: 10pt;">AUTONOMÍA TÉCNICA</span><br /></td>
+<td style="width: 24.9501%;"><span style="font-size: 10pt;">Usa los pictogramas ante errores.</span><br /></td>
+<td style="width: 24.9501%;"><span style="font-size: 10pt;">Pregunta antes de mirar el panel.</span><br /></td>
+<td style="width: 24.9501%;"><span style="font-size: 10pt;">Se bloquea ante el error.</span></td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p>Instrumento 2: Diana de Evaluación Visual (Autoevaluación)<br />¿Qué evaluará? Se aplicará en la Sesión 6. Es un instrumento donde el niño/a reflexiona sobre su propio proceso de aprendizaje.</p>
+<p>¿Cómo y cuándo se usará? Se proyectará una Diana Interactiva en la PDI (creada en Genially). Cada alumno, por turnos, arrastrará su icono hacia los bordes o el centro de la diana según cómo se haya sentido en cuatro áreas: ¿Me ha gustado el proyecto?, ¿He sabido usar la tablet?, ¿He escrito bien las palabras?, ¿He ayudado a mis compañeros?.</p>
+<p>Análisis de resultados:</p>
+<p> Al comparar la Diana de Autoevaluación con la Rúbrica Docente, puedo validar si el alumnado tiene una percepción real de su aprendizaje.<br />Si un alumno marca que "sabe usar la tablet perfectamente" pero mi rúbrica indica que "se bloquea", esto me da una señal crítica de que debemos trabajar la autocrítica y la gestión de la frustración.<br /></p>
+<p><a href="https://view.genially.com/69f3bc812eb3fba0b0d76adb" title="Diana de evaluación">DIANA DE EVALUACIÓN</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778439270114-x54bux5op","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p></p>\n<p>INSTRUMENTOS DE EVALUACIÓN DIGITAL: \"Aventuras en la Granja\"<br />Introducción<br />Para la evaluación de esta SdA, se han diseñado dos instrumentos que combinan la observación directa del docente con la participación del alumnado.</p>\n<p>Instrumento 1: Rúbrica Analítica Digital (Registro Docente)<br />¿Qué evaluará? Se utilizará durante las sesiones 4 y 5 (creación en Pixton y resolución de problemas técnicos). Evaluará tres dimensiones:</p>\n<p>Conciencia Fonológica: Capacidad para escribir el nombre y sonido del animal.<br />Competencia Digital: Autonomía en el uso de la herramienta Pixton.<br />Resolución de Problemas: Uso de los pictogramas de apoyo ante fallos técnicos.<br />Se utilizará una rúbrica en iDoceo o Google Sheets. La ventaja de este medio digital es que permite automatizar la media ponderada de los indicadores.</p>\n<p>Variables: Si observamos que la variable \"Competencia Digital\" es baja en la mayoría del grupo, los datos nos indicarán que debemos dedicar más tiempo al modelado y menos a la producción textual.<br />Utilidad: Más allá de la nota, estos datos sirven para detectar qué alumnos necesitan refuerzo en la pinza digital o en la discriminación fonética.<br /></p>\n<table border=\"1\" style=\"width: 100.058%; background-color: #C2E0F4; border-color: #7EECE9; border-style: solid;\">\n<tbody>\n<tr>\n<td style=\"width: 24.9501%;\"><span style=\"font-size: 10pt;\">INDICADOR</span><br /></td>\n<td style=\"width: 24.9501%;\"><span style=\"font-size: 10pt;\">LOGRADO (1)</span><br /></td>\n<td style=\"width: 24.9501%;\"><span style=\"font-size: 10pt;\">EN PROCESO (2)</span><br /></td>\n<td style=\"width: 24.9501%;\"><span style=\"font-size: 10pt;\">NO LOGRADO (3)</span><br /></td>\n</tr>\n<tr>\n<td style=\"width: 24.9501%;\"><span style=\"font-size: 10pt;\">ESCRITURA</span><br /></td>\n<td style=\"width: 24.9501%;\"><span style=\"font-size: 10pt;\">Escribe onomatopeyas y nombres sin error.</span><br /></td>\n<td style=\"width: 24.9501%;\"><span style=\"font-size: 10pt;\">Escribe pero omite algún fonema.</span><br /></td>\n<td style=\"width: 24.9501%;\"><span style=\"font-size: 10pt;\">No asocia grafema-fonema.</span><br /></td>\n</tr>\n<tr>\n<td style=\"width: 24.9501%;\"><span style=\"font-size: 10pt;\">USO DE PIXTON</span><br /></td>\n<td style=\"width: 24.9501%;\"><span style=\"font-size: 10pt;\">Crea viñetas y cambia fondos solo.</span><br /></td>\n<td style=\"width: 24.9501%;\"><span style=\"font-size: 10pt;\">Necesita ayuda para encontrar menús.</span><br /></td>\n<td style=\"width: 24.9501%;\"><span style=\"font-size: 10pt;\">No maneja la tablet.</span><br /></td>\n</tr>\n<tr>\n<td style=\"width: 24.9501%;\"><span style=\"font-size: 10pt;\">AUTONOMÍA TÉCNICA</span><br /></td>\n<td style=\"width: 24.9501%;\"><span style=\"font-size: 10pt;\">Usa los pictogramas ante errores.</span><br /></td>\n<td style=\"width: 24.9501%;\"><span style=\"font-size: 10pt;\">Pregunta antes de mirar el panel.</span><br /></td>\n<td style=\"width: 24.9501%;\"><span style=\"font-size: 10pt;\">Se bloquea ante el error.</span></td>\n</tr>\n</tbody>\n</table>\n<p></p>\n<p></p>\n<p>Instrumento 2: Diana de Evaluación Visual (Autoevaluación)<br />¿Qué evaluará? Se aplicará en la Sesión 6. Es un instrumento donde el niño/a reflexiona sobre su propio proceso de aprendizaje.</p>\n<p>¿Cómo y cuándo se usará? Se proyectará una Diana Interactiva en la PDI (creada en Genially). Cada alumno, por turnos, arrastrará su icono hacia los bordes o el centro de la diana según cómo se haya sentido en cuatro áreas: ¿Me ha gustado el proyecto?, ¿He sabido usar la tablet?, ¿He escrito bien las palabras?, ¿He ayudado a mis compañeros?.</p>\n<p>Análisis de resultados:</p>\n<p> Al comparar la Diana de Autoevaluación con la Rúbrica Docente, puedo validar si el alumnado tiene una percepción real de su aprendizaje.<br />Si un alumno marca que \"sabe usar la tablet perfectamente\" pero mi rúbrica indica que \"se bloquea\", esto me da una señal crítica de que debemos trabajar la autocrítica y la gestión de la frustración.<br /></p>\n<p><a href=\"https://view.genially.com/69f3bc812eb3fba0b0d76adb\" title=\"Diana de evaluación\">DIANA DE EVALUACIÓN</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778352822018-po0i2zeu5</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Actividad interactiva 1</pageName>
+  <odeNavStructureOrder>18</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad interactiva 1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Actividad interactiva 1</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778352822018-po0i2zeu5</odePageId>
+      <odeBlockId>block-1778353435236-jriv0f0ml</odeBlockId>
+      <blockName>Relaciona</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778352822018-po0i2zeu5</odePageId>
+          <odeBlockId>block-1778353435236-jriv0f0ml</odeBlockId>
+          <odeIdeviceId>idevice-1778353435230-q97joqahr</odeIdeviceId>
+          <odeIdeviceTypeName>relate</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="relaciona-IDevice"><div class="relaciona-instructions gameQP-instructions"><p>¡Une cada animal con la letra por la que empieza su nombre!</p></div><div class="relaciona-DataGame js-hidden">{"typeGame":"Relaciona","author":"","randomCards":true,"instructions":"<p>¡Une cada animal con la letra por la que empieza su nombre!</p>","showMinimize":false,"itinerary":{"showClue":false,"clueGame":"","percentageClue":40,"showCodeAccess":false,"codeAccess":"","messageCodeAccess":""},"cardsGame":[{"url":"{{context_path}}/content/resources/ambquinn-lion-8096155.png","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#311cce","eText":"L","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#0f58eb","eTextBk":"LE%C3%93N"},{"url":"{{context_path}}/content/resources/alexas_fotos-barbary-ape-3562358.jpg","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#e78413","eText":"M","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#e47d07","eTextBk":"MONO"},{"url":"{{context_path}}/content/resources/couleur-duck-1893080.jpg","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ede607","eText":"P","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#f0dc05","eTextBk":"PATO"},{"url":"{{context_path}}/content/resources/zsolt71-zoo-8378189.jpg","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#2bcb0b","eText":"L","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#0ecd25","eTextBk":"LORO"}],"isScorm":0,"textButtonScorm":"Guardar la puntuación","repeatActivity":true,"weighted":100,"textAfter":"%3Cp%3E%22%A1BRAVO%2C%20EXPLORADOR%21%20%uD83C%uDF1F%20Has%20reconocido%20perfectamente%20las%20letras%20de%20nuestros%20amigos%20los%20animales.%3C/p%3E","version":2,"percentajeCards":100,"type":0,"showSolution":true,"timeShowSolution":3,"time":3,"evaluation":false,"evaluationID":"b3b556dc-cc4f-42aa-81f7-2dfb649eaad5","id":"idevice-1778353435230-q97joqahr","msgs":{"msgSubmit":"Enviar","msgClue":"¡Genial! La pista es:","msgCodeAccess":"Código de acceso","msgPlayStart":"Pulsa aquí para jugar","msgScore":"Puntuación","msgErrors":"Errores","msgHits":"Aciertos","msgMinimize":"Minimizar","msgMaximize":"Maximizar","msgFullScreen":"Pantalla Completa","msgExitFullScreen":"Salir del modo pantalla completa","msgNoImage":"Pregunta sin imágenes","msgEndGameScore":"Comience la partida antes de guardar la puntuación.","msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgInformation":"Información","msgYouScore":"Su puntuación","msgAuthor":"Autoría","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgYouLastScore":"La última puntuación guardada es","msgActityComply":"Ya ha realizado esta actividad.","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgClose":"Cerrar","msgAudio":"Audio","msgNumQuestions":"Número de tarjetas","msgTryAgain":"Necesitas al menos %s% de respuestas correctas para obtener la información. Inténtalo de nuevo.","msgEndGameM":"Has completado el juego. Tu puntuación es %s.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Relaciona","msgCheck":"Comprobar","msgRestart":"Reiniciar"}}</div><div class="game-evaluation-ids js-hidden" data-id="idevice-1778353435230-q97joqahr" data-evaluationb="false" data-evaluationid="b3b556dc-cc4f-42aa-81f7-2dfb649eaad5"></div><a href="{{context_path}}/content/resources/ambquinn-lion-8096155.png" class="js-hidden relaciona-LinkImages">0</a><a href="{{context_path}}/content/resources/alexas_fotos-barbary-ape-3562358.jpg" class="js-hidden relaciona-LinkImages">1</a><a href="{{context_path}}/content/resources/couleur-duck-1893080.jpg" class="js-hidden relaciona-LinkImages">2</a><a href="{{context_path}}/content/resources/zsolt71-zoo-8378189.jpg" class="js-hidden relaciona-LinkImages">3</a><div class="relaciona-extra-content"><p>"¡BRAVO, EXPLORADOR! 🌟 Has reconocido perfectamente las letras de nuestros amigos los animales.</p></div><div class="relaciona-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778355681430-7nlzm2zma</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Actividad interactiva 2</pageName>
+  <odeNavStructureOrder>19</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad interactiva 2</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Actividad interactiva 2</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778355681430-7nlzm2zma</odePageId>
+      <odeBlockId>block-1778355708360-d3hywh34x</odeBlockId>
+      <blockName>Puzle</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778355681430-7nlzm2zma</odePageId>
+          <odeBlockId>block-1778355708360-d3hywh34x</odeBlockId>
+          <odeIdeviceId>idevice-1778355708357-ia1n533a9</odeIdeviceId>
+          <odeIdeviceTypeName>puzzle</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="puzzle-IDevice"><div class="game-evaluation-ids js-hidden" data-id="idevice-1778355708357-ia1n533a9" data-evaluationb="false" data-evaluationid="b3b556dc-cc4f-42aa-81f7-2dfb649eaad5"></div><div class="puzzle-feedback-game"></div><div class="puzzle-instructions"><p>Resuelve los siguientes puzles de animales domésticos y salvajes.</p></div><div class="puzzle-DataGame js-hidden">%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%C2%E7%E8%E8%FE%F7%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%B0%A8%B0%AE%E2%AC%C0%F7%E1%E7%F7%FE%E4%F7%B2%FE%FD%E1%B2%E1%FB%F5%E7%FB%F7%FC%E6%F7%E1%B2%E2%E7%E8%FE%F7%E1%B2%F6%F7%B2%F3%FC%FB%FF%F3%FE%F7%E1%B2%F6%FD%FF%7B%E1%E6%FB%F1%FD%E1%B2%EB%B2%E1%F3%FE%E4%F3%F8%F7%E1%BC%AE%BD%E2%AC%B0%BE%B0%E0%F3%FC%F6%FD%FF%C2%E7%E8%E8%FE%F7%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%E1%FA%FD%E5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FB%E6%FB%FC%F7%E0%F3%E0%EB%B0%A8%E9%B0%E1%FA%FD%E5%D1%FE%E7%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FE%E7%F7%D5%F3%FF%F7%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%D1%FE%E7%F7%B0%A8%A6%A2%BE%B0%E1%FA%FD%E5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%BE%B0%FF%F7%E1%E1%F3%F5%F7%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%EF%BE%B0%E2%E7%E8%E8%FE%F7%E1%D5%F3%FF%F7%B0%A8%C9%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%E0%FD%E5%E1%B0%A8%A1%BE%B0%F1%FD%FE%E7%FF%FC%E1%B0%A8%A1%BE%B0%E1%FA%FD%E5%DB%FF%F3%F5%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E1%FA%FD%E5%DC%E7%FF%F0%F7%E0%B0%A8%F4%F3%FE%E1%F7%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D3%FC%FB%FF%F3%FE%F7%E1%B2%F6%FD%FF%7B%E1%E6%FB%F1%FD%E1%B0%BE%B0%F3%E7%F6%FB%FD%D6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%D1%FE%E7%F7%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F3%E1%E1%F7%E6%A8%BD%BD%A7%F0%F3%AA%A5%A6%A6%F1%BF%F4%A3%F3%F4%BF%AA%A1%A4%A1%BF%F0%A3%A4%F7%BF%F7%A4%F3%F3%AA%F7%F3%A5%F4%AB%F3%A3%BC%F8%E2%F5%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F1%FE%E7%F7%B0%A8%B03%D0%E7%F7%FC%B2%E6%E0%F3%F0%F3%F8%FD%B3%B0%BE%B0%E1%FA%FD%E5%C6%FB%FF%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E1%FA%FD%E5%D3%E6%E6%F7%FF%E2%E1%B0%A8%F4%F3%FE%E1%F7%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%E0%FD%E5%E1%B0%A8%A1%BE%B0%F1%FD%FE%E7%FF%FC%E1%B0%A8%A1%BE%B0%E1%FA%FD%E5%DB%FF%F3%F5%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E1%FA%FD%E5%DC%E7%FF%F0%F7%E0%B0%A8%F4%F3%FE%E1%F7%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D3%FC%FB%FF%F3%FE%F7%E1%B2%E1%F3%FE%E4%F3%F8%F7%E1%B0%BE%B0%F3%E7%F6%FB%FD%D6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%D1%FE%E7%F7%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F3%E1%E1%F7%E6%A8%BD%BD%F6%F7%A3%A1%A1%A5%F6%AA%BF%A6%F0%F0%A0%BF%F3%A2%F6%A5%BF%F7%A1%A6%F1%BF%A4%A0%A1%A5%A3%F6%A2%F3%F1%F3%F1%AB%BC%F8%E2%F5%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F1%FE%E7%F7%B0%A8%B0%B0%BE%B0%E1%FA%FD%E5%C6%FB%FF%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E1%FA%FD%E5%D3%E6%E6%F7%FF%E2%E1%B0%A8%F4%F3%FE%E1%F7%EF%CF%BE%B0%FB%E1%C1%F1%FD%E0%FF%B0%A8%A2%BE%B0%E6%F7%EA%E6%D0%E7%E6%E6%FD%FC%C1%F1%FD%E0%FF%B0%A8%B0%D5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%E0%F7%E2%F7%F3%E6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%E6%E0%E7%F7%BE%B0%E5%F7%FB%F5%FA%E6%F7%F6%B0%A8%A3%A2%A2%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%E6%F7%EA%E6%D3%F4%E6%F7%E0%B0%A8%B0%B0%BE%B0%F4%F7%F7%F6%D0%F3%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D4%D0%B0%A8%A3%A2%A2%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%A3%A2%A2%BE%B0%E4%F7%E0%E1%FB%FD%FC%B0%A8%A3%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%DB%D6%B0%A8%B0%F0%A1%F0%A7%A7%A4%F6%F1%BF%F1%F1%A6%F4%BF%A6%A0%F3%F3%BF%AA%A3%F4%A5%BF%A0%F6%F4%F0%A4%A6%AB%F7%F3%F3%F6%A7%B0%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%A3%A5%A5%AA%A1%A7%A7%A5%A2%AA%A1%A7%A5%BF%FB%F3%A3%FC%A7%A1%A1%F3%AB%B0%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%C1%E7%F0%FF%FB%E6%B0%A8%B0%D7%FC%E4%FB%F3%E0%B0%BE%B0%FF%E1%F5%D1%FE%E7%F7%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%E2%FB%E1%E6%F3%B2%F7%E1%A8%B0%BE%B0%FF%E1%F5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%D3%F5%F3%FB%FC%B0%A8%B0%D8%E7%F5%F3%E0%B2%FD%E6%E0%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%E6%F3%E0%E6%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F8%E7%F5%F3%E0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%E1%B0%A8%B0%D7%E0%E0%FD%E0%F7%E1%B0%BE%B0%FF%E1%F5%DA%FB%E6%E1%B0%A8%B0%D3%F1%FB%F7%E0%E6%FD%E1%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C2%F7%E1%FD%B0%BE%B0%FF%E1%F5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%B0%DF%FB%FC%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%DF%F3%EA%FB%FF%FB%E8%F7%B0%A8%B0%DF%F3%EA%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C2%F3%FC%E6%F3%FE%FE%F3%B2%D1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%D7%EA%FB%E6%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C1%F3%FE%FB%E0%B2%F6%F7%FE%B2%FF%FD%F6%FD%B2%E2%F3%FC%E6%F3%FE%FE%F3%B2%F1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%DC%E7%FF%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%E2%E0%F7%F5%E7%FC%E6%F3%E1%B0%BE%B0%FF%E1%F5%DC%FD%DB%FF%F3%F5%F7%B0%A8%B0%C2%E0%F7%F5%E7%FC%E6%F3%B2%E1%FB%FC%B2%FB%FFs%F5%F7%FC%F7%E1%B0%BE%B0%FF%E1%F5%D1%FD%FD%FE%B0%A8%B03%D0%FB%F7%FC%B3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F7%E1%B0%A8%B03%D1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%D7%EA%F1%F7%FE%F7%FC%E6%F7%B3%B2%EE%B23%D5%F7%FC%FB%F3%FE%B3%B2%EE%B23%DF%E7%EB%B2%F0%FB%F7%FC%B3%B2%EE%B23%C2%F7%E0%F4%F7%F1%E6%FD%B3%B0%BE%B0%FF%E1%F5%D4%F3%FB%FE%E7%E0%F7%E1%B0%A8%B03%DC%FD%B2%F7%E0%F3%B2%F7%E1%FD%B3%B2%EE%B23%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DE%FD%B2%E1%F7%FC%E6%FB%FF%FD%E1%B3%B2%EE%B23%D7%E0%E0%FD%E0%B3%B0%BE%B0%FF%E1%F5%C6%E0%EB%D3%F5%F3%FB%FC%B0%A8%B0%DC%F7%F1%F7%E1%FB%E6%F3%E1%B2%F3%FE%B2%FF%F7%FC%FD%E1%B2%B7%E1%B7%B2%F6%F7%B2%E0%F7%E1%E2%E7%F7%E1%E6%F3%E1%B2%F1%FD%E0%E0%F7%F1%E6%F3%E1%B2%E2%F3%E0%F3%B2%FD%F0%E6%F7%FC%F7%E0%B2%FE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%BC%B2%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%C1%F1%FD%E0%F7%B0%A8%B0%D1%FD%FF%FB%F7%FC%F1%F7%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%B2%F3%FC%E6%F7%E1%B2%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%BC%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%C1%F1%FD%E0%FF%B0%A8%B0%DE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%FC%FD%B2%E1%F7%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E2%FD%E0%E3%E7%F7%B2%F7%E1%E6%F3%B2%E2s%F5%FB%FC%F3%B2%FC%FD%B2%F4%FD%E0%FF%F3%B2%E2%F3%E0%E6%F7%B2%B2%F6%F7%B2%E7%FC%B2%E2%F3%E3%E7%F7%E6%F7%B2%C1%D1%DD%C0%DF%BC%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%C1%F1%FD%E0%F7%B0%A8%B03%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E7%FC%F3%B2%E4%F7%E8%B3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%B0%A8%B0%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%DB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%CB%FD%E7%C1%F1%FD%E0%F7%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%D3%E7%E6%FA%FD%E0%B0%A8%B0%D3%E7%E6%FD%E0%7F%F3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B2%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%BC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B0%BE%B0%FF%E1%F5%C1%F7%E4%F7%E0%F3%FE%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E6%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%F1%FD%FF%FD%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%CB%FD%E7%DE%F3%E1%E6%C1%F1%FD%E0%F7%B0%A8%B0%DE%F3%B2h%FE%E6%FB%FF%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F5%E7%F3%E0%F6%F3%F6%F3%B2%F7%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E6%EB%D1%FD%FF%E2%FE%EB%B0%A8%B0%CB%F3%B2%FA%F3%B2%E0%F7%F3%FE%FB%E8%F3%F6%FD%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%BC%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%F7%E4%F7%E0%F3%FE%C6%FB%FF%F7%E1%B0%A8%B0%C2%E7%F7%F6%F7%B2%E0%F7%F3%FE%FB%E8%F3%E0%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B2%F1%E7%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%D1%FE%FD%E1%F7%B0%A8%B0%D1%F7%E0%E0%F3%E0%B0%BE%B0%FF%E1%F5%D3%E7%F6%FB%FD%B0%A8%B0%D3%E7%F6%FB%FD%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%DD%E4%F7%E0%B0%A8%B0%D7%FE%B2%E6%FB%F7%FF%E2%FD%B2%FA%F3%B2%F4%FB%FC%F3%FE%FB%E8%F3%F6%FD%B0%BE%B0%FF%F5%E1%D3%FE%FE%C2%E7%E8%E8%FE%F7%E1%B0%A8%B03%DA%F3%E1%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%FD%B2%E6%FD%F6%F3%E1%B2%FE%F3%E1%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%F7%E1%B3%B0%BE%B0%FF%E1%F5%DC%E7%FF%F0%F7%E0%E1%D3%E6%E6%F7%FF%E2%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%F7%E1%B2%E2%F7%FC%F6%FB%F7%FC%E6%F7%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E4%FB%E6%FB%F7%E1%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%F7%E1%B0%BE%B0%FF%E1%F5%D1%FD%FC%E6%FB%FC%E7%F7%B0%A8%B0%D1%FD%FC%E6%FB%FC%E7%F3%E0%B0%BE%B0%FF%E1%F5%D3%F5%F3%FB%FC%B0%A8%B0%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%B0%BE%B0%FF%E1%F5%C7%FC%F1%FD%FF%E2%FE%F7%E6%F7%F6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%F3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C7%FC%E1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C1%FA%FD%E5%DB%FF%F3%F5%F7%B0%A8%B0%DF%FD%E1%E6%E0%F3%E0%BD%DD%F1%E7%FE%E6%F3%E0%B2%FB%FF%F3%F5%F7%FC%B0%BE%B0%FF%E1%F5%C1%FA%FD%E5%DC%E7%FF%F0%F7%E0%E1%B0%A8%B0%DF%FD%E1%E6%E0%F3%E0%BD%DD%F1%E7%FE%E6%F3%E0%B2%FCh%FF%F7%E0%FD%E1%B0%BE%B0%FF%E1%F5%D3%E6%E6%F7%FF%E2%E1%DC%E7%FF%F0%F7%E0%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%FB%FC%E6%F7%FC%E6%FD%E1%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%C2%E7%E8%E8%FE%F7%B0%A8%B0%C6%FB%F7%FF%E2%FD%B2%F7%FF%E2%FE%F7%F3%F6%FD%B0%BE%B0%FF%E1%F5%E1%D1%FD%FF%E2%FE%F7%E6%F7%F6%C2%E7%E8%E8%FE%F7%B0%A8%B0%C2%E7%E8%FE%F7%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%FD%B0%BE%B0%FF%E1%F5%E1%DC%F7%EA%E6%B0%A8%B0%C1%FB%F5%E7%FB%F7%FC%E6%F7%B0%BE%B0%FF%E1%F5%E1%C0%F7%E2%F7%F3%E6%B0%A8%B0%C0%F7%E2%F7%E6%FB%F1%FBa%FC%B0%BE%B0%FF%E1%F5%E1%C6%F7%E0%FF%FB%FC%F3%E6%F7%B0%A8%B0%D4%FB%FC%F3%FE%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%C6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%C2%E7%E8%FE%F7%B0%EF%EF</div><a href="{{context_path}}/content/resources/paula_olly-dog-7174266_1920.jpg" class="js-hidden puzzle-LinkImagesDef">0</a><a href="{{context_path}}/content/resources/pexels-elephants-2178578_1920.jpg" class="js-hidden puzzle-LinkImagesDef">1</a><div class="puzzle-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778356454914-pkmpfgb7s</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Actividad interactiva 3</pageName>
+  <odeNavStructureOrder>20</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad interactiva 3</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Actividad interactiva 3</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778356454914-pkmpfgb7s</odePageId>
+      <odeBlockId>block-1778356468352-7tugawevl</odeBlockId>
+      <blockName>Clasifica</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778356454914-pkmpfgb7s</odePageId>
+          <odeBlockId>block-1778356468352-7tugawevl</odeBlockId>
+          <odeIdeviceId>idevice-1778356468348-j06oyahs5</odeIdeviceId>
+          <odeIdeviceTypeName>classify</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="clasifica-IDevice"><div class="game-evaluation-ids js-hidden" data-id="idevice-1778356468348-j06oyahs5" data-evaluationb="false" data-evaluationid="b3b556dc-cc4f-42aa-81f7-2dfb649eaad5"></div><div class="clasifica-feedback-game"></div><div class="clasifica-instructions"><p>Arrastra cada tarjeta hasta su contenedor.</p></div><div class="clasifica-DataGame js-hidden">%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D1%FE%F3%E1%FB%F4%FB%F1%F3%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%B0%A8%B0%AE%E2%AC%D3%E0%E0%F3%E1%E6%E0%F3%B2%F1%F3%F6%F3%B2%E6%F3%E0%F8%F7%E6%F3%B2%FA%F3%E1%E6%F3%B2%E1%E7%B2%F1%FD%FC%E6%F7%FC%F7%F6%FD%E0%BC%AE%BD%E2%AC%B0%BE%B0%E1%FA%FD%E5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FB%E6%FB%FC%F7%E0%F3%E0%EB%B0%A8%E9%B0%E1%FA%FD%E5%D1%FE%E7%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FE%E7%F7%D5%F3%FF%F7%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%D1%FE%E7%F7%B0%A8%A6%A2%BE%B0%E1%FA%FD%E5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%BE%B0%FF%F7%E1%E1%F3%F5%F7%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%EF%BE%B0%E5%FD%E0%F6%E1%D5%F3%FF%F7%B0%A8%C9%E9%B0%E6%EB%E2%F7%B0%A8%A0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F0%FE%FD%F0%A8%F3%E2%E2%A8%BD%BD%FE%FD%F1%F3%FE%FA%FD%E1%E6%BD%A4%F3%F0%A6%A6%A5%A3%A4%BF%A2%A6%F6%F1%BF%A6%AB%A4%F6%BF%AA%F1%F3%F4%BF%F0%F6%F6%A0%F3%AA%F0%AB%A2%F7%A2%F1%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%DF%DD%DC%DD%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%BE%B0%F5%E0%FD%E7%E2%B0%A8%A2%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%EA%B0%A8%FC%E7%FE%FE%BE%B0%EB%B0%A8%FC%E7%FE%FE%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F0%FE%FD%F0%A8%F3%E2%E2%A8%BD%BD%FE%FD%F1%F3%FE%FA%FD%E1%E6%BD%F0%F0%A2%A6%F4%A5%F0%F7%BF%A7%F4%F6%F7%BF%A6%A3%F0%A7%BF%F3%A4%A0%F7%BF%F0%F3%A3%F0%A0%AA%A7%F3%F4%A5%F4%F6%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%BE%B0%F5%E0%FD%E7%E2%B0%A8%A2%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%EA%B0%A8%FC%E7%FE%FE%BE%B0%EB%B0%A8%FC%E7%FE%FE%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F0%FE%FD%F0%A8%F3%E2%E2%A8%BD%BD%FE%FD%F1%F3%FE%FA%FD%E1%E6%BD%A5%A3%A1%AB%A1%F6%F6%F6%BF%A2%AB%F6%F4%BF%A6%A0%A5%F6%BF%AA%AA%AA%F0%BF%A6%F4%F3%A7%A6%A5%AA%F1%A5%AA%F3%F4%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%BE%B0%F5%E0%FD%E7%E2%B0%A8%A2%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%EA%B0%A8%FC%E7%FE%FE%BE%B0%EB%B0%A8%FC%E7%FE%FE%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F0%FE%FD%F0%A8%F3%E2%E2%A8%BD%BD%FE%FD%F1%F3%FE%FA%FD%E1%E6%BD%A0%AB%F7%AB%A6%F7%A3%F7%BF%F3%AB%A5%A3%BF%A6%F3%A2%F0%BF%F3%F0%A7%A4%BF%F6%A5%A0%A4%A0%AB%A3%F1%F1%AA%F1%F6%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%BE%B0%F5%E0%FD%E7%E2%B0%A8%A2%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%EA%B0%A8%FC%E7%FE%FE%BE%B0%EB%B0%A8%FC%E7%FE%FE%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F0%FE%FD%F0%A8%F3%E2%E2%A8%BD%BD%FE%FD%F1%F3%FE%FA%FD%E1%E6%BD%F1%A5%AA%F1%A3%A2%F0%A6%BF%A7%A0%A1%A7%BF%A6%F3%F4%A2%BF%F3%AB%F3%F1%BF%AA%F4%A6%F4%A1%A0%A1%F4%A1%A2%AB%A6%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%BE%B0%F5%E0%FD%E7%E2%B0%A8%A2%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%EA%B0%A8%FC%E7%FE%FE%BE%B0%EB%B0%A8%FC%E7%FE%FE%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F0%FE%FD%F0%A8%F3%E2%E2%A8%BD%BD%FE%FD%F1%F3%FE%FA%FD%E1%E6%BD%A4%A5%A2%A0%A1%A0%AA%A2%BF%F6%AB%F7%A5%BF%A6%F6%F3%A6%BF%F3%A7%A1%A2%BF%A7%F7%F1%A6%AB%F7%A0%AB%A6%F1%A6%A2%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%BE%B0%F5%E0%FD%E7%E2%B0%A8%A2%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%CF%BE%B0%FB%E1%C1%F1%FD%E0%FF%B0%A8%A2%BE%B0%E6%F7%EA%E6%D0%E7%E6%E6%FD%FC%C1%F1%FD%E0%FF%B0%A8%B0%D5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%E0%F7%E2%F7%F3%E6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%E6%E0%E7%F7%BE%B0%E5%F7%FB%F5%FA%E6%F7%F6%B0%A8%A3%A2%A2%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%E6%F7%EA%E6%D3%F4%E6%F7%E0%B0%A8%B0%B0%BE%B0%F4%F7%F7%F6%D0%F3%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D4%D0%B0%A8%A3%A2%A2%BE%B0%F1%E7%E1%E6%FD%FF%DF%F7%E1%E1%F3%F5%F7%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%A3%A2%A2%BE%B0%E6%FB%FF%F7%B0%A8%A2%BE%B0%E4%F7%E0%E1%FB%FD%FC%B0%A8%A2%BC%AA%BE%B0%F5%E0%FD%E7%E2%E1%B0%A8%C9%B0%D3%DC%DB%DF%D3%DE%D7%C1%B2%D6%DD%DF%5B%C1%C6%DB%D1%DD%C1%B0%BE%B0%D3%DC%DB%DF%D3%DE%D7%C1%B2%C1%D3%DE%C4%D3%D8%D7%C1%B0%BE%B0%D5%E0%E7%E2%FD%B2%A1%B0%BE%B0%D5%E0%E7%E2%FD%B2%A6%B0%BE%B0%D5%E0%E7%E2%FD%B2%A7%B0%BE%B0%D5%E0%E7%E2%FD%B2%A4%B0%BE%B0%D5%E0%E7%E2%FD%B2%A5%B0%BE%B0%D5%E0%E7%E2%FD%B2%AA%B0%BE%B0%D5%E0%E7%E2%FD%B2%AB%B0%CF%BE%B0%FC%E7%FF%F0%F7%E0%D5%E0%FD%E7%E2%E1%B0%A8%A0%BE%B0%F5%F3%FF%F7%DE%F7%E4%F7%FE%B0%A8%A0%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%DB%D6%B0%A8%B0%F0%A1%F0%A7%A7%A4%F6%F1%BF%F1%F1%A6%F4%BF%A6%A0%F3%F3%BF%AA%A3%F4%A5%BF%A0%F6%F4%F0%A4%A6%AB%F7%F3%F3%F6%A7%B0%BE%B0%FB%FF%F5%D1%F3%E0%F6%B0%A8%B0%B0%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%A3%A5%A5%AA%A1%A7%A4%A6%A4%AA%A1%A6%AA%BF%F8%A2%A4%FD%EB%F3%FA%E1%A7%B0%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%C1%E7%F0%FF%FB%E6%B0%A8%B0%D7%FC%E4%FB%F3%E0%B0%BE%B0%FF%E1%F5%D1%FE%E7%F7%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%E2%FB%E1%E6%F3%B2%F7%E1%A8%B0%BE%B0%FF%E1%F5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%D3%F5%F3%FB%FC%B0%A8%B0%D8%E7%F5%F3%E0%B2%FD%E6%E0%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%E6%F3%E0%E6%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F8%E7%F5%F3%E0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%E1%B0%A8%B0%D7%E0%E0%FD%E0%F7%E1%B0%BE%B0%FF%E1%F5%DA%FB%E6%E1%B0%A8%B0%D3%F1%FB%F7%E0%E6%FD%E1%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C2%F7%E1%FD%B0%BE%B0%FF%E1%F5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%B0%DF%FB%FC%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%DF%F3%EA%FB%FF%FB%E8%F7%B0%A8%B0%DF%F3%EA%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C2%F3%FC%E6%F3%FE%FE%F3%B2%D1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%D7%EA%FB%E6%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C1%F3%FE%FB%E0%B2%F6%F7%FE%B2%FF%FD%F6%FD%B2%E2%F3%FC%E6%F3%FE%FE%F3%B2%F1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%DC%E7%FF%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%E2%E0%F7%F5%E7%FC%E6%F3%E1%B0%BE%B0%FF%E1%F5%DC%FD%DB%FF%F3%F5%F7%B0%A8%B0%C2%E0%F7%F5%E7%FC%E6%F3%B2%E1%FB%FC%B2%FB%FFs%F5%F7%FC%F7%E1%B0%BE%B0%FF%E1%F5%D1%FD%FD%FE%B0%A8%B03%D0%FB%F7%FC%B3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F7%E1%B0%A8%B03%D1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%D7%EA%F1%F7%FE%F7%FC%E6%F7%B3%B2%EE%B23%D5%F7%FC%FB%F3%FE%B3%B2%EE%B23%DF%E7%EB%B2%F0%FB%F7%FC%B3%B2%EE%B23%C2%F7%E0%F4%F7%F1%E6%FD%B3%B0%BE%B0%FF%E1%F5%D4%F3%FB%FE%E7%E0%F7%E1%B0%A8%B03%DC%FD%B2%F7%E0%F3%B2%F7%E1%FD%B3%B2%EE%B23%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DE%FD%B2%E1%F7%FC%E6%FB%FF%FD%E1%B3%B2%EE%B23%D7%E0%E0%FD%E0%B3%B0%BE%B0%FF%E1%F5%C6%E0%EB%D3%F5%F3%FB%FC%B0%A8%B0%DC%F7%F1%F7%E1%FB%E6%F3%E1%B2%F3%FE%B2%FF%F7%FC%FD%E1%B2%B7%E1%B7%B2%F6%F7%B2%E0%F7%E1%E2%E7%F7%E1%E6%F3%E1%B2%F1%FD%E0%E0%F7%F1%E6%F3%E1%B2%E2%F3%E0%F3%B2%FD%F0%E6%F7%FC%F7%E0%B2%FE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%BC%B2%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%C1%F1%FD%E0%F7%B0%A8%B0%D1%FD%FF%FB%F7%FC%F1%F7%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%B2%F3%FC%E6%F7%E1%B2%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%BC%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%C1%F1%FD%E0%FF%B0%A8%B0%DE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%FC%FD%B2%E1%F7%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E2%FD%E0%E3%E7%F7%B2%F7%E1%E6%F3%B2%E2s%F5%FB%FC%F3%B2%FC%FD%B2%F4%FD%E0%FF%F3%B2%E2%F3%E0%E6%F7%B2%B2%F6%F7%B2%E7%FC%B2%E2%F3%E3%E7%F7%E6%F7%B2%C1%D1%DD%C0%DF%BC%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%C1%F1%FD%E0%F7%B0%A8%B03%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E7%FC%F3%B2%E4%F7%E8%B3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%B0%A8%B0%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%DB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%CB%FD%E7%C1%F1%FD%E0%F7%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%D3%E7%E6%FA%FD%E0%B0%A8%B0%D3%E7%E6%FD%E0%7F%F3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B2%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%BC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B0%BE%B0%FF%E1%F5%C1%F7%E4%F7%E0%F3%FE%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E6%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%F1%FD%FF%FD%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%CB%FD%E7%DE%F3%E1%E6%C1%F1%FD%E0%F7%B0%A8%B0%DE%F3%B2h%FE%E6%FB%FF%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F5%E7%F3%E0%F6%F3%F6%F3%B2%F7%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E6%EB%D1%FD%FF%E2%FE%EB%B0%A8%B0%CB%F3%B2%FA%F3%B2%E0%F7%F3%FE%FB%E8%F3%F6%FD%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%BC%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%F7%E4%F7%E0%F3%FE%C6%FB%FF%F7%E1%B0%A8%B0%C2%E7%F7%F6%F7%B2%E0%F7%F3%FE%FB%E8%F3%E0%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B2%F1%E7%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%D1%FE%FD%E1%F7%B0%A8%B0%D1%F7%E0%E0%F3%E0%B0%BE%B0%FF%E1%F5%D3%E7%F6%FB%FD%B0%A8%B0%D3%E7%F6%FB%FD%B0%BE%B0%FF%E1%F5%CB%F7%E1%B0%A8%B0%C1%7F%B0%BE%B0%FF%E1%F5%DC%FD%B0%A8%B0%DC%FD%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%DD%E4%F7%E0%B0%A8%B0%C6%E7%B2%E6%FB%F7%FF%E2%FD%B2%FA%F3%B2%F4%FB%FC%F3%FE%FB%E8%F3%F6%FD%BC%B2%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%B0%BE%B0%FF%F5%E1%D5%F3%FF%F7%C1%E6%F3%E0%E6%B0%A8%B03%D7%FE%B2%F8%E7%F7%F5%FD%B2%FA%F3%B2%F1%FD%FF%F7%FC%E8%F3%F6%FD%B3%B2%D3%E0%E0%F3%E1%E6%E0%F3%B2%F1%F3%F6%F3%B2%E6%F3%E0%F8%F7%E6%F3%B2%FA%F3%E1%E6%F3%B2%E1%E7%B2%F1%FD%FC%E6%F7%FC%F7%F6%FD%E0%B0%BE%B0%FF%E1%F5%C1%F7%FE%F7%F1%E6%D1%F3%E0%F6%B0%A8%B0%C1%F7%FE%F7%F1%F1%FB%FD%FC%F3%B2%FD%E6%E0%F3%B2%E6%F3%E0%F8%F7%E6%F3%B0%BE%B0%FF%E1%F5%C1%F7%FE%F7%F1%E6%D1%F3%E0%F6%DD%FC%F7%B0%A8%B0%C1%F7%FE%F7%F1%F1%FB%FD%FC%F3%B2%E7%FC%F3%B2%E6%F3%E0%F8%F7%E6%F3%B0%BE%B0%FF%E1%F5%C0%F7%F0%FD%FD%E6%B0%A8%B0%C0%F7%FB%FC%FB%F1%FB%F3%E0%B0%BE%B0%FF%E1%F5%C6%F7%E1%E6%C2%F3%E1%E1%F7%F6%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B23%C2%E0%E7%F7%F0%F3%B2%E1%E7%E2%F7%E0%F3%F6%F3%B3%B0%BE%B0%FF%E1%F5%C6%F7%E1%E6%D4%F3%FB%FE%F7%F6%B0%A8%B0%DC%FD%B2%FA%F3%E1%B2%E1%E7%E2%F7%E0%F3%F6%FD%B2%FE%F3%B2%E2%E0%E7%F7%F0%F3%BC%B2%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%B0%BE%B0%FF%E1%F5%C0%F7%F0%FD%FD%E6%D5%F3%FF%F7%B0%A8%B0-%D6%F7%E1%F7%F3%E1%B2%E0%F7%FB%FC%FB%F1%FB%F3%E0%B2%F7%E1%E6%F3%B2%E2%F3%E0%E6%FB%F6%F3%AD%B0%BE%B0%FF%E1%F5%D1%FD%FC%E6%FB%FC%E7%F7%B0%A8%B0%D1%FD%FC%E6%FB%FC%E7%F3%E0%B0%BE%B0%FF%E1%F5%C1%FA%FD%E5%D3%FC%E1%E5%F7%E0%E1%B0%A8%B0%D1%FD%FF%E2%E0%FD%F0%F3%E0%B2%E0%F7%E1%E7%FE%E6%F3%F6%FD%E1%B0%BE%B0%FF%E1%F5%C7%FC%F3%FC%E1%E5%F7%E0%F7%F6%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%C6%F7%B2%FA%F3%FC%B2%E3%E7%F7%F6%F3%F6%FD%B2%B7%E1%B2%E6%F3%E0%F8%F7%E6%F3%E1%B2%E2%FD%E0%B2%F1%FD%FE%FD%F1%F3%E0%B2%F1%FD%E0%E0%F7%F1%E6%F3%FF%F7%FC%E6%F7%BC%B2-%C3%E7%FB%F7%E0%F7%E1%B2%FB%FC%E6%F7%FC%E6%F3%E0%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%AD%B0%BE%B0%FF%E1%F5%D3%FE%FE%D1%FD%E0%E0%F7%F1%E6%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B23%C6%FD%F6%FD%B2%E2%F7%E0%F4%F7%F1%E6%FD%B3%B0%BE%B0%FF%E1%F5%C6%FD%FD%DF%F3%FC%EB%C6%E0%FB%F7%E1%B0%A8%B03%D7%E1%E6%E7%E2%F7%FC%F6%FD%B3%B2%DA%F3%E1%B2%E0%F7%E1%E7%F7%FE%E6%FD%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B2%F7%FC%B2%B7%E1%B2%FB%FC%E6%F7%FC%E6%FD%E1%BC%B23%C1%F7%F5%E7%E0%FD%B2%E3%E7%F7%B2%E2%E7%F7%F6%F7%E1%B2%FA%F3%F1%F7%E0%FE%FD%B2%FFs%E1%B2%E0s%E2%FB%F6%FD%B3%B0%BE%B0%FF%E1%F5%C3%A7%B0%A8%B0%DC%FD%B2%FA%F3%E1%B2%F1%FD%FE%FD%F1%F3%F6%FD%B2%B7%E1%B2%E6%F3%E0%F8%F7%E6%F3%E1%B2%F7%FC%B2%E1%E7%B2%FE%E7%F5%F3%E0%BC%B23%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%B3%B0%BE%B0%FF%E1%F5%C3%A5%B0%A8%B03%D7%E1%E6%E7%E2%F7%FC%F6%FD%B3%B2%DA%F3%E1%B2%F1%FE%F3%E1%FB%F4%FB%F1%F3%F6%FD%B2%F1%FD%E0%E0%F7%F1%E6%F3%FF%F7%FC%E6%F7%B2%FE%F3%B2%FF%F3%EB%FD%E0%B2%E2%F3%E0%E6%F7%B2%F6%F7%B2%FE%F3%E1%B2%E6%F3%E0%F8%F7%E6%F3%E1%BE%B2%B7%E1%BE%B2%E2%F7%E0%FD%B2%F3h%FC%B2%E2%E7%F7%F6%F7%E1%B2%FF%F7%F8%FD%E0%F3%E0%B0%BE%B0%FF%E1%F5%C3%AB%B0%A8%B03%DF%F3%F5%FC%7F%F4%FB%F1%FD%B3%B2%C6%F3%FC%B2%E1%FD%FE%FD%B2%E6%F7%B2%FA%F3%FC%B2%E3%E7%F7%F6%F3%F6%FD%B2%B7%E1%B2%E6%F3%E0%F8%F7%E6%F3%E1%B2%E2%FD%E0%B2%F1%FD%FE%FD%F1%F3%E0%B2%F1%FD%E0%E0%F7%F1%E6%F3%FF%F7%FC%E6%F7%BC%B2%D0%E7%E1%F1%F3%B2%FE%F3%B2%E2%F7%E0%F4%F7%F1%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D5%F3%FF%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F3%FE%B2%F4%FB%FC%F3%FE%FB%E8%F3%E0%B2%F7%FE%B2%F8%E7%F7%F5%FD%BC%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D5%F3%FF%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F3%FE%B2%F4%FB%FC%F3%FE%FB%E8%F3%E0%B2%F7%FE%B2%F8%E7%F7%F5%FD%BC%B2%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%E1%B2%F8%E7%F5%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%E0%C1%F1%FD%E0%F7%B0%A8%B0%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%E1%B2%F5%E7%F3%E0%F6%F3%E0%B2%E6%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E6%E0%F3%E1%B2%F4%FB%FC%F3%FE%FB%E8%F3%E0%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%BC%B0%BE%B0%FF%E1%F5%C7%FC%F1%FD%FF%E2%FE%F7%E6%F7%F6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%F3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C7%FC%E1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D1%FE%F3%E1%FB%F4%FB%F1%F3%B0%EF%EF</div><a href="{{context_path}}/content/resources/romanticfatman-monkeys-2500916_1920.jpg" class="js-hidden clasifica-LinkImages">0</a><a href="{{context_path}}/content/resources/paula_olly-dog-7174266_1920.jpg" class="js-hidden clasifica-LinkImages">1</a><a href="{{context_path}}/content/resources/zsolt71-zoo-8378189.jpg" class="js-hidden clasifica-LinkImages">2</a><a href="{{context_path}}/content/resources/pexels-elephants-2178578_1920.jpg" class="js-hidden clasifica-LinkImages">3</a><a href="{{context_path}}/content/resources/ambquinn-lion-8096155.png" class="js-hidden clasifica-LinkImages">4</a><a href="{{context_path}}/content/resources/webandi-cat-2068462_1920.jpg" class="js-hidden clasifica-LinkImages">5</a><div class="clasifica-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778355110142-0rv8sii07</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Actividad interactiva 4</pageName>
+  <odeNavStructureOrder>21</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad interactiva 4</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Actividad interactiva 4</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778355110142-0rv8sii07</odePageId>
+      <odeBlockId>block-1778355292670-xdgaihct9</odeBlockId>
+      <blockName>Rosco</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778355110142-0rv8sii07</odePageId>
+          <odeBlockId>block-1778355292670-xdgaihct9</odeBlockId>
+          <odeIdeviceId>idevice-1778355292664-l414n7pca</odeIdeviceId>
+          <odeIdeviceTypeName>az-quiz-game</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="rosco-IDevice"><div class="game-evaluation-ids js-hidden" data-id="idevice-1778355292664-l414n7pca" data-evaluationb="false" data-evaluationid="b3b556dc-cc4f-42aa-81f7-2dfb649eaad5"></div><div class="rosco-version js-hidden">2</div><div class="rosco-instructions"><p>Observa las letras, identifica y rellena las palabras que faltan.</p></div><div class="rosco-DataGame js-hidden">%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%C0%FD%E1%F1%FD%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%B0%A8%B0%AE%E2%AC%DD%F0%E1%F7%E0%E4%F3%B2%FE%F3%E1%B2%FE%F7%E6%E0%F3%E1%BE%B2%FB%F6%F7%FC%E6%FB%F4%FB%F1%F3%B2%EB%B2%E0%F7%FE%FE%F7%FC%F3%B2%FE%F3%E1%B2%E2%F3%FE%F3%F0%E0%F3%E1%B2%E3%E7%F7%B2%F4%F3%FE%E6%F3%FC%BC%AE%BD%E2%AC%B0%BE%B0%E6%FB%FF%F7%C1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%A1%BE%B0%F6%E7%E0%F3%E6%FB%FD%FC%D5%F3%FF%F7%B0%A8%A0%A6%A2%BE%B0%FC%E7%FF%F0%F7%E0%C6%E7%E0%FC%E1%B0%A8%A3%BE%B0%E1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%E6%E0%E7%F7%BE%B0%E1%FA%FD%E5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FB%E6%FB%FC%F7%E0%F3%E0%EB%B0%A8%E9%B0%E1%FA%FD%E5%D1%FE%E7%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FE%E7%F7%D5%F3%FF%F7%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%D1%FE%E7%F7%B0%A8%A6%A2%BE%B0%E1%FA%FD%E5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%BE%B0%FF%F7%E1%E1%F3%F5%F7%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%EF%BE%B0%E5%FD%E0%F6%E1%D5%F3%FF%F7%B0%A8%C9%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%D3%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%D3%D0%D7%D8%D3%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D7%E1%B2%E7%FC%B2%FB%FC%E1%F7%F1%E6%FD%B2%E2%F7%E3%E7%F7c%FD%B2%F1%FD%FC%B2%E0%F3%EB%F3%E1%B2%F3%FF%F3%E0%FB%FE%FE%F3%E1%B2%EB%B2%FC%F7%F5%E0%F3%E1%B2%E3%E7%F7%B2%FA%F3%F1%F7%B2%FF%FB%F7%FE%BC%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%D0%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%D0%C7%C0%C0%DD%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D7%E1%B2%E7%FC%B2%F3%FC%FB%FF%F3%FE%B2%F1%FD%FC%B2%FD%E0%F7%F8%F3%E1%B2%FF%E7%EB%B2%FE%F3%E0%F5%F3%E1%BE%B2%F7%E1%B2%FF%E7%EB%B2%E6%E0%F3%F0%F3%F8%F3%F6%FD%E0%B2%EB%B2%E2%F3%E0%FB%F7%FC%E6%F7%B2%F6%F7%FE%B2%F1%F3%F0%F3%FE%FE%FD%BC%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%D1%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%D1%D3%DF%D7%DE%DE%DD%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%C6%FB%F7%FC%F7%B2%F6%FD%E1%B2%F8%FD%E0%FD%F0%F3%E1%BE%B2%E4%FB%E4%F7%B2%F7%FC%B2%F7%FE%B2%F6%F7%E1%FB%F7%E0%E6%FD%B2%EB%B2%E2%E7%F7%F6%F7%B2%F7%E1%E6%F3%E0%B2%FF%E7%F1%FA%FD%B2%E6%FB%F7%FF%E2%FD%B2%E1%FB%FC%B2%F0%F7%F0%F7%E0%B2%F3%F5%E7%F3%BC%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%D6%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%D7%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%D4%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%D5%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%DA%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%DB%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%D8%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%D9%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%DE%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%DE%D7A%DC%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%C6%FB%F7%FC%F7%B2%E7%FC%F3%B2%F5%E0%F3%FC%B2%FF%F7%FE%F7%FC%F3%B2%EB%B2%E0%E7%F5%F7%B2%FF%E7%EB%B2%F4%E7%F7%E0%E6%F7%B2%F7%FC%B2%FE%F3%B2%E1%F7%FE%E4%F3%BC%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%DF%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%DF%DD%DC%DD%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D7%E1%B2%FF%E7%EB%B2%F6%FB%E4%F7%E0%E6%FB%F6%FD%BE%B2%E6%FB%F7%FC%F7%B2%E7%FC%F3%B2%F1%FD%FE%F3%B2%FE%F3%E0%F5%F3%B2%EB%B2%FE%F7%B2%F7%FC%F1%F3%FC%E6%F3%FC%B2%FE%FD%E1%B2%E2%FEs%E6%F3%FC%FD%E1%BC%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%DC%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0C%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%DD%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%C2%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%C2%D3%C6%DD%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D1%F3%FF%FB%FC%F3%B2%F0%F3%FE%F3%FC%F1%F7s%FC%F6%FD%E1%F7%BE%B2%E6%FB%F7%FC%F7%B2%E2%FB%F1%FD%B2%EB%B2%FE%F7%B2%F5%E7%E1%E6%F3%B2%FF%E7%F1%FA%FD%B2%FC%F3%F6%F3%E0%B2%F7%FC%B2%F7%FE%B2%F3%F5%E7%F3%BC%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%C3%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%C0%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%C1%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%C6%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%C7%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%C4%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%C5%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%CA%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%CB%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%C8%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%CF%BE%B0%FB%E1%C1%F1%FD%E0%FF%B0%A8%A2%BE%B0%E6%F7%EA%E6%D0%E7%E6%E6%FD%FC%C1%F1%FD%E0%FF%B0%A8%B0%D5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%E0%F7%E2%F7%F3%E6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%E6%E0%E7%F7%BE%B0%E5%F7%FB%F5%FA%E6%F7%F6%B0%A8%A3%A2%A2%BE%B0%FE%F7%E6%E6%F7%E0%E1%B0%A8%B0%D3%D0%D1%D6%D7%D4%D5%DA%DB%D8%D9%DE%DF%DCC%DD%C2%C3%C0%C1%C6%C7%C4%C5%CA%CB%C8%B0%BE%B0%E6%F7%EA%E6%D3%F4%E6%F7%E0%B0%A8%B0%B0%BE%B0%F1%F3%E1%F7%C1%F7%FC%E1%FB%E6%FB%E4%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E4%F7%E0%E1%FB%FD%FC%B0%A8%A0%BE%B0%FF%FD%F6%F7%D0%FD%F3%E0%F6%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%DB%D6%B0%A8%B0%F0%A1%F0%A7%A7%A4%F6%F1%BF%F1%F1%A6%F4%BF%A6%A0%F3%F3%BF%AA%A3%F4%A5%BF%A0%F6%F4%F0%A4%A6%AB%F7%F3%F3%F6%A7%B0%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%A3%A5%A5%AA%A1%A7%A7%A0%AB%A0%A4%A4%A6%BF%FE%A6%A3%A6%FC%A5%E2%F1%F3%B0%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%C0%F7%F3%F6%EB%B0%A8%B0-%C2%E0%F7%E2%F3%E0%F3%F6%FD%AD%B0%BE%B0%FF%E1%F5%C1%E6%F3%E0%E6%D5%F3%FF%F7%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F7%FF%E2%F7%E8%F3%E0%B0%BE%B0%FF%E1%F5%DA%F3%E2%E2%F7%FC%B0%A8%B0%C2%F3%E1%F3%E0%B0%BE%B0%FF%E1%F5%C0%F7%E2%FE%EB%B0%A8%B0%C0%F7%E1%E2%FD%FC%F6%F7%E0%B0%BE%B0%FF%E1%F5%C1%E7%F0%FF%FB%E6%B0%A8%B0%D7%FC%E4%FB%F3%E0%B0%BE%B0%FF%E1%F5%D7%FC%E6%F7%E0%D1%FD%F6%F7%B0%A8%B0%DB%FC%E6%E0%FD%F6%E7%F1%F7%B2%F7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%D1%FD%F6%F7%B0%A8%B0%D7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B2%FC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B0%BE%B0%FF%E1%F5%D5%F3%FF%F7%DD%E4%F7%E0%B0%A8%B03%D4%FB%FC%B2%F6%F7%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%B3%B0%BE%B0%FF%E1%F5%DC%F7%E5%C5%FD%E0%F6%B0%A8%B0%C2%F3%FE%F3%F0%E0%F3%B2%FC%E7%F7%E4%F3%B0%BE%B0%FF%E1%F5%C1%E6%F3%E0%E6%C5%FB%E6%FA%B0%A8%B0%D7%FF%E2%FB%F7%E8%F3%B2%E2%FD%E0%B2%B7%A3%B0%BE%B0%FF%E1%F5%D1%FD%FC%E6%F3%FB%FC%E6%B0%A8%B0%D1%FD%FC%E6%FB%F7%FC%F7%B2%FE%F3%B2%FE%F7%E6%E0%F3%B2%B7%A3%B0%BE%B0%FF%E1%F5%C2%F3%E1%E1%B0%A8%B0%C2%F3%E1%F3%E0%B2%F3%B2%FE%F3%B2%E1%FB%F5%E7%FB%F7%FC%E6%F7%B2%E2%F3%FE%F3%F0%E0%F3%B0%BE%B0%FF%E1%F5%DB%FC%F6%FB%F1%F3%E6%F7%C5%FD%E0%F6%B0%A8%B0%DB%FC%E6%E0%FD%F6%E7%F1%F7%B2%E7%FC%F3%B2%E2%F3%FE%F3%F0%E0%F3%B0%BE%B0%FF%E1%F5%D1%FE%E7%F7%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%E2%FB%E1%E6%F3%B2%F7%E1%A8%B0%BE%B0%FF%E1%F5%DC%F7%E5%D5%F3%FF%F7%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F7%FF%E2%F7%E8%F3%E0%B2%FD%E6%E0%F3%B2%E2%F3%E0%E6%FB%F6%F3%B0%BE%B0%FF%E1%F5%CB%FD%E7%DA%F3%E1%B0%A8%B0%C6%FB%F7%FC%F7%B2%B7%A3%B2%F3%F1%FB%F7%E0%E6%FD%E1%B2%EB%B2%B7%A0%B2%F4%F3%FE%FE%FD%E1%B0%BE%B0%FF%E1%F5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%D3%F5%F3%FB%FC%B0%A8%B0%D8%E7%F5%F3%E0%B2%FD%E6%E0%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%C0%F7%E3%E7%FB%E0%F7%F6%D3%F1%F1%F7%E1%E1%D9%F7%EB%B0%A8%B0%D7%E1%B2%FC%F7%F1%F7%E1%F3%E0%FB%FD%B2%F7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%DE%FD%FD%F9%FB%FC%F5%B0%A8%B0%DE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B2%E3%E7%F7%B2%F7%E1%E6%F3%F0%F3%B2%F0%E7%E1%F1%F3%FC%F6%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%E6%F3%E0%E6%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F8%E7%F5%F3%E0%B0%BE%B0%FF%E1%F5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%B0%DF%FB%FC%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%DF%F3%EA%FB%FF%FB%E8%F7%B0%A8%B0%DF%F3%EA%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%DA%FB%E6%E1%B0%A8%B0%D3%F1%FB%F7%E0%E6%FD%E1%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%E1%B0%A8%B0%D7%E0%E0%FD%E0%F7%E1%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%B0%A8%B0%DE%7F%FF%FB%E6%F7%B2%F6%F7%B2%E6%FB%F7%FF%E2%FD%B2%BA%FF%FF%A8%E1%E1%BB%B0%BE%B0%FF%E1%F5%DD%FC%F7%C0%FD%E7%FC%F6%B0%A8%B0%C7%FC%F3%B2%E4%E7%F7%FE%E6%F3%B0%BE%B0%FF%E1%F5%C6%FD%E5%C0%FD%E7%FC%F6%E1%B0%A8%B0%D6%FD%E1%B2%E4%E7%F7%FE%E6%F3%E1%B0%BE%B0%FF%E1%F5%DB%FF%F3%F5%F7%B0%A8%B0%DB%FF%F3%F5%F7%FC%B0%BE%B0%FF%E1%F5%DC%FD%DB%FF%F3%F5%F7%B0%A8%B0%C1%FB%FC%B2%FB%FF%F3%F5%F7%FC%B0%BE%B0%FF%E1%F5%C5%E0%FD%E6%F7%B0%A8%B0%D7%E1%F1%E0%FB%F0%F7%B2%FE%F3%B2%E2%F3%FE%F3%F0%E0%F3%B2%F1%FD%E0%E0%F7%F1%E6%F3%B2%EB%B2%E2%E7%FE%E1%F3%B2%F7%FC%B2%C0%F7%E1%E2%FD%FC%F6%F7%E0%BC%B2%C1%FB%B2%F6%E7%F6%F3%E1%BE%B2%E2%E7%FE%E1%F3%B2%F7%FC%B2%C1%F7%F5%E7%FB%E0%BC%B0%BE%B0%FF%E1%F5%DC%FD%E6%DC%F7%E6%E5%FD%E0%F9%B0%A8%B0%D3%B2%F7%E1%E6%F7%B2%F8%E7%F7%F5%FD%B2%E1%FD%FE%FD%B2%E1%F7%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%F1%FD%FC%B2%F1%FD%FC%F7%EA%FBa%FC%B2%F3%B2%FB%FC%E6%F7%E0%FC%F7%E6%BC%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F7%E1%B0%A8%B03%D1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%D7%EA%F1%F7%FE%F7%FC%E6%F7%B3%B2%EE%B23%D5%F7%FC%FB%F3%FE%B3%B2%EE%B23%DF%E7%EB%B2%F0%FB%F7%FC%B3%B2%EE%B23%C2%F7%E0%F4%F7%F1%E6%FD%B3%B0%BE%B0%FF%E1%F5%D4%F3%FB%FE%E7%E0%F7%E1%B0%A8%B03%DC%FD%B2%F7%E0%F3%B2%F7%E1%FD%B3%B2%EE%B23%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DE%FD%B2%E1%F7%FC%E6%FB%FF%FD%E1%B3%B2%EE%B23%D7%E0%E0%FD%E0%B3%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%C1%F1%FD%E0%F7%B0%A8%B0%D1%FD%FF%FB%F7%FC%F1%F7%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%B2%F3%FC%E6%F7%E1%B2%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%BC%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%C1%F1%FD%E0%FF%B0%A8%B0%DE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%FC%FD%B2%E1%F7%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E2%FD%E0%E3%E7%F7%B2%F7%E1%E6%F3%B2%E2s%F5%FB%FC%F3%B2%FC%FD%B2%F4%FD%E0%FF%F3%B2%E2%F3%E0%E6%F7%B2%B2%F6%F7%B2%E7%FC%B2%E2%F3%E3%E7%F7%E6%F7%B2%C1%D1%DD%C0%DF%BC%B0%BE%B0%FF%E1%F5%C1%FA%FD%E5%C0%FD%E7%FE%F7%E6%E6%F7%B0%A8%B0%DF%FD%E1%E6%E0%F3%E0%B2%F7%FE%B2%E0%FD%E1%F1%FD%B2%F6%F7%B2%E2%F3%FE%F3%F0%E0%F3%E1%B0%BE%B0%FF%E1%F5%DA%FB%F6%F7%C0%FD%E7%FE%F7%E6%E6%F7%B0%A8%B0%DD%F1%E7%FE%E6%F3%E0%B2%F7%FE%B2%E0%FD%E1%F1%FD%B2%F6%F7%B2%E2%F3%FE%F3%F0%E0%F3%E1%B0%BE%B0%FF%E1%F5%C3%E7%F7%E1%E6%FB%FD%FC%B0%A8%B0%C2%E0%F7%F5%E7%FC%E6%F3%B0%BE%B0%FF%E1%F5%D3%FC%E1%E5%F7%E0%B0%A8%B0%C0%F7%E1%E2%FD%FC%F6%F7%E0%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%C1%F1%FD%E0%F7%B0%A8%B03%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E7%FC%F3%B2%E4%F7%E8%B3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%B0%A8%B0%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%DB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%CB%FD%E7%C1%F1%FD%E0%F7%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B2%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%BC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B0%BE%B0%FF%E1%F5%D3%E7%E6%FA%FD%E0%B0%A8%B0%D3%E7%E6%FD%E0%7F%F3%B0%BE%B0%FF%E1%F5%C1%F7%E4%F7%E0%F3%FE%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E6%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%F1%FD%FF%FD%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%CB%FD%E7%DE%F3%E1%E6%C1%F1%FD%E0%F7%B0%A8%B0%DE%F3%B2h%FE%E6%FB%FF%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F5%E7%F3%E0%F6%F3%F6%F3%B2%F7%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E6%EB%D1%FD%FF%E2%FE%EB%B0%A8%B0%CB%F3%B2%FA%F3%B2%E0%F7%F3%FE%FB%E8%F3%F6%FD%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%BC%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%F7%E4%F7%E0%F3%FE%C6%FB%FF%F7%E1%B0%A8%B0%C2%E7%F7%F6%F7%B2%E0%F7%F3%FE%FB%E8%F3%E0%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B2%F1%E7%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C2%F3%FC%E6%F3%FE%FE%F3%B2%D1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%D7%EA%FB%E6%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C1%F3%FE%FB%E0%B2%F6%F7%FE%B2%FF%FD%F6%FD%B2%E2%F3%FC%E6%F3%FE%FE%F3%B2%F1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%DF%FD%E4%F7%DD%FC%F7%B0%A8%B0%C2%F3%E1%F3%E0%B0%BE%B0%FF%E1%F5%D3%E7%F6%FB%FD%B0%A8%B0%D3%E7%F6%FB%FD%B0%BE%B0%FF%E1%F5%D1%FD%E0%E0%F7%F1%E6%B0%A8%B0%D1%FD%E0%E0%F7%F1%E6%FD%B0%BE%B0%FF%E1%F5%DB%FC%F1%FD%E0%E0%F7%F1%E6%B0%A8%B0%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B0%BE%B0%FF%E1%F5%C5%FA%FB%E6%F7%D0%FD%F3%E0%F6%B0%A8%B0%C2%FB%E8%F3%E0%E0%F3%B2%F6%FB%F5%FB%E6%F3%FE%B0%BE%B0%FF%E1%F5%D1%FE%FD%E1%F7%B0%A8%B0%D1%F7%E0%E0%F3%E0%B0%BE%B0%FF%E1%F5%C7%FC%F1%FD%FF%E2%FE%F7%E6%F7%F6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%F3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C7%FC%E1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%C0%FD%E1%F1%FD%B0%BE%B0%FF%E1%F5%C1%FA%FD%E5%C5%FD%E0%F6%E1%B0%A8%B0%DF%FD%E1%E6%E0%F3%E0%B2%FE%F3%E1%B2%E1%FD%FE%E7%F1%FB%FD%FC%F7%E1%B0%BE%B0%FF%E1%F5%D3%FE%FE%B0%A8%B0%C6%FD%F6%F3%E1%B0%BE%B0%FF%E1%F5%C7%FC%F3%FC%E1%E5%F7%E0%F7%F6%B0%A8%B0%C1%FB%FC%B2%F1%FD%FC%E6%F7%E1%E6%F3%E0%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C2%F7%E1%FD%B0%EF%EF</div><a href="#" class="js-hidden rosco-LinkImages">0</a><a href="#" class="js-hidden rosco-LinkImages">1</a><a href="#" class="js-hidden rosco-LinkImages">2</a><a href="#" class="js-hidden rosco-LinkImages">3</a><a href="#" class="js-hidden rosco-LinkImages">4</a><a href="#" class="js-hidden rosco-LinkImages">5</a><a href="#" class="js-hidden rosco-LinkImages">6</a><a href="#" class="js-hidden rosco-LinkImages">7</a><a href="#" class="js-hidden rosco-LinkImages">8</a><a href="#" class="js-hidden rosco-LinkImages">9</a><a href="#" class="js-hidden rosco-LinkImages">10</a><a href="#" class="js-hidden rosco-LinkImages">11</a><a href="#" class="js-hidden rosco-LinkImages">12</a><a href="#" class="js-hidden rosco-LinkImages">13</a><a href="#" class="js-hidden rosco-LinkImages">14</a><a href="#" class="js-hidden rosco-LinkImages">15</a><a href="#" class="js-hidden rosco-LinkImages">16</a><a href="#" class="js-hidden rosco-LinkImages">17</a><a href="#" class="js-hidden rosco-LinkImages">18</a><a href="#" class="js-hidden rosco-LinkImages">19</a><a href="#" class="js-hidden rosco-LinkImages">20</a><a href="#" class="js-hidden rosco-LinkImages">21</a><a href="#" class="js-hidden rosco-LinkImages">22</a><a href="#" class="js-hidden rosco-LinkImages">23</a><a href="#" class="js-hidden rosco-LinkImages">24</a><a href="#" class="js-hidden rosco-LinkImages">25</a><a href="#" class="js-hidden rosco-LinkImages">26</a><a href="#" class="js-hidden rosco-LinkAudios">0</a><a href="#" class="js-hidden rosco-LinkAudios">1</a><a href="#" class="js-hidden rosco-LinkAudios">2</a><a href="#" class="js-hidden rosco-LinkAudios">3</a><a href="#" class="js-hidden rosco-LinkAudios">4</a><a href="#" class="js-hidden rosco-LinkAudios">5</a><a href="#" class="js-hidden rosco-LinkAudios">6</a><a href="#" class="js-hidden rosco-LinkAudios">7</a><a href="#" class="js-hidden rosco-LinkAudios">8</a><a href="#" class="js-hidden rosco-LinkAudios">9</a><a href="#" class="js-hidden rosco-LinkAudios">10</a><a href="#" class="js-hidden rosco-LinkAudios">11</a><a href="#" class="js-hidden rosco-LinkAudios">12</a><a href="#" class="js-hidden rosco-LinkAudios">13</a><a href="#" class="js-hidden rosco-LinkAudios">14</a><a href="#" class="js-hidden rosco-LinkAudios">15</a><a href="#" class="js-hidden rosco-LinkAudios">16</a><a href="#" class="js-hidden rosco-LinkAudios">17</a><a href="#" class="js-hidden rosco-LinkAudios">18</a><a href="#" class="js-hidden rosco-LinkAudios">19</a><a href="#" class="js-hidden rosco-LinkAudios">20</a><a href="#" class="js-hidden rosco-LinkAudios">21</a><a href="#" class="js-hidden rosco-LinkAudios">22</a><a href="#" class="js-hidden rosco-LinkAudios">23</a><a href="#" class="js-hidden rosco-LinkAudios">24</a><a href="#" class="js-hidden rosco-LinkAudios">25</a><a href="#" class="js-hidden rosco-LinkAudios">26</a><div class="rosco-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778261094192-zkmiiovt7</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>28</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778261094192-zkmiiovt7</odePageId>
+      <odeBlockId>block-1778357441843-15700fr3i</odeBlockId>
+      <blockName>Créditos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778261094192-zkmiiovt7</odePageId>
+          <odeBlockId>block-1778357441843-15700fr3i</odeBlockId>
+          <odeIdeviceId>idevice-1778357441836-z0o225jw7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Información del Recurso</strong><br /><strong>Título del proyecto:</strong> <span style="color: #e03e2d;">Letras Conectadas: Los animales y sus sonidos.</span><br /><strong>Autoría:</strong> Araceli Mª Toro Pozo<br /><strong>Nivel:</strong> 1.º de Educación Primaria.</p>
+<p><strong>Atribución de imágenes y recursos</strong></p>
+<p><strong>Imágenes:</strong> Todas las imágenes de animales han sido obtenidas de <em>Pixabay</em> (Autores: Bru-nO y otros). Licencia de Pixabay.<br /><strong>Herramientas externas:</strong> <em>Symbaloo</em> (Tablero de juegos) y <em>Padlet</em> (Muro colaborativo).<br /><strong>Metodología</strong>: Inspirado en la pedagogía Montessori (letras de lija) y los principios del Diseño Universal para el Aprendizaje (DUA).</p>
+<p><strong>Licencia del material</strong></p>
+<p>Este recurso ha sido creado con <em>eXeLearning </em>y se publica bajo la licencia: Creative Commons Atribución-CompartirIgual 4.0 (CC BY-SA). </p>
+<p><img src="{{context_path}}/content/resources/OIP.jpg" title="Licencia" width="125" height="44" alt="Licencia" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778357441836-z0o225jw7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Información del Recurso</strong><br /><strong>Título del proyecto:</strong> <span style=\"color: #e03e2d;\">Letras Conectadas: Los animales y sus sonidos.</span><br /><strong>Autoría:</strong> Araceli Mª Toro Pozo<br /><strong>Nivel:</strong> 1.º de Educación Primaria.</p>\n<p><strong>Atribución de imágenes y recursos</strong></p>\n<p><strong>Imágenes:</strong> Todas las imágenes de animales han sido obtenidas de <em>Pixabay</em> (Autores: Bru-nO y otros). Licencia de Pixabay.<br /><strong>Herramientas externas:</strong> <em>Symbaloo</em> (Tablero de juegos) y <em>Padlet</em> (Muro colaborativo).<br /><strong>Metodología</strong>: Inspirado en la pedagogía Montessori (letras de lija) y los principios del Diseño Universal para el Aprendizaje (DUA).</p>\n<p><strong>Licencia del material</strong></p>\n<p>Este recurso ha sido creado con <em>eXeLearning </em>y se publica bajo la licencia: Creative Commons Atribución-CompartirIgual 4.0 (CC BY-SA). </p>\n<p><img src=\"{{context_path}}/content/resources/OIP.jpg\" title=\"Licencia\" width=\"125\" height=\"44\" alt=\"Licencia\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
